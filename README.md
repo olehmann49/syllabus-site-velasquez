@@ -5,7 +5,7 @@ um 1656,
 Museo del Prado
 
 
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
+<img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
 
 
 Scroll along to find out  
