@@ -1,16 +1,13 @@
 # Las Hilanderas  
 
+<img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
+
 um 1656,
 Öl auf Leinwand, 220x289 cm 
 Museo del Prado
 
 
-<img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
-
-
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
-
+Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die Entschlüsselung dieses durch Aby Warburg und Fritz Saxl. Niedergeschrieben von Karin Hellwig im Buch mit dem Titel: "Aby Warburg und Fritz Saxl enträtseln Velázquez"
 
 ---
 
