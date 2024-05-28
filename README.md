@@ -16,21 +16,23 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 ## die Kunsthistoriker
 Aby Warburg und Fritz Saxl waren ...
 
+
 ### Aby Warburg
 
 <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
-https://de.wikipedia.org/wiki/Aby_Warburg
+Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg
 
-Aby Warbunrg (1866-1929) war ein Hamburger Kunsthistoriker und Professor an der Universität Hamburg
+https://de.wikipedia.org/wiki/Aby_Warburg
 
 
 ### Fritz Saxl
 
 <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
-https://de.wikipedia.org/wiki/Fritz_Saxl
+Fritz Saxl (1890 - 1948) war ein öaterreuchischer Kunsthistoriker
 
+https://de.wikipedia.org/wiki/Fritz_Saxl
 
 ---
 
