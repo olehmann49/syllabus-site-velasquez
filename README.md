@@ -15,10 +15,10 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 # Was ist zu sehen? 
 
 
-<img src='<img src='img/Vordergrund.png' class='noresize'>
+<img src='img/Vordergrund.png' class='noresize'>
 
 
-<img src='<img src='img/Randfiguren.png' class='noresize'>
+<img src='img/Randfiguren.png' class='noresize'>
 
 
 ---
