@@ -8,6 +8,7 @@ Museo del Prado in Madrid
 
 Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die Entschlüsselung dieses durch Aby Warburg und Fritz Saxl. Niedergeschrieben von Karin Hellwig im Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“
 
+
 # Was ist zu sehen?
 
 
