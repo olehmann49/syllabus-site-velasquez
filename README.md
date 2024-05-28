@@ -6,18 +6,19 @@ um 1656,
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid
 
-
 Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die Entschlüsselung dieses durch Aby Warburg und Fritz Saxl. Niedergeschrieben von Karin Hellwig im Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“
+
+# Was ist zu sehen?
 
 
 ---
 
 
-## die Kunsthistoriker
-Aby Warburg und Fritz Saxl waren ...
+# Die Kunsthistoriker
+Aby Warburg und Fritz Saxl
 
 
-### Aby Warburg
+## Aby Warburg
 
 <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
@@ -26,7 +27,7 @@ Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der 
 https://de.wikipedia.org/wiki/Aby_Warburg
 
 
-### Fritz Saxl
+## Fritz Saxl
 
 <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
@@ -38,6 +39,8 @@ https://de.wikipedia.org/wiki/Fritz_Saxl
 
 
 ## Die Methode
+
+
 
 
 ---
