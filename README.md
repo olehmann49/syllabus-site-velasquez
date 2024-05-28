@@ -15,12 +15,12 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 ## die Kunsthistoriker
 
-<img src='img/Aby_Warburg_1925.jpg' class='noresize'>
+### <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 https://de.wikipedia.org/wiki/Aby_Warburg
 Aby Warbunrg (1866-1929) war ein Hamburger Kunsthistoriker und Professor an der Universität Hamburg
 
 
-<img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
+### <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 https://de.wikipedia.org/wiki/Fritz_Saxl
 
 
