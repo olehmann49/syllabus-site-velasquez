@@ -12,6 +12,11 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 ---
 
 
+## Die Reise des Bildes
+
+
+---
+
 # Was ist zu sehen? 
 
 
@@ -51,12 +56,10 @@ https://de.wikipedia.org/wiki/Fritz_Saxl
 ## Die Methode
 
 
-
-
 ---
 
 
-
+## Deutungen bis 1880      
 
 In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
 
