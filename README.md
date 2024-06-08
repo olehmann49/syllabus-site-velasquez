@@ -14,11 +14,19 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 # WO hing das Bild und wo hängt es heute? 
 
+<img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
+
+<img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
+
+<img src='img/MUSEODELPRADO.jpg' class='noresize'>
+
 
 ---
 
 
 # WER war Diego Velazquez?
+
+<img src='img/Diego_Velázquez.jpg' class='noresize'>
 
 
 ---
@@ -28,7 +36,6 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 
 <img src='img/Vordergrund.png' class='noresize'>
-
 
 <img src='img/Randfiguren.png' class='noresize'>
 
