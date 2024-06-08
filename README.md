@@ -32,6 +32,8 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 <img src='img/Randfiguren.png' class='noresize'>
 
+<img src='img/Hintergrund.jpg' class='noresize'>
+
 
 ---
 
