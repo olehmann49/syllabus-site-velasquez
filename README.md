@@ -12,12 +12,19 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 ---
 
 
-## Die Reise des Bildes
+# WO hing das Bild und wo hängt es heute? 
 
 
 ---
 
-# Was ist zu sehen? 
+
+# WER war Diego Velazquez?
+
+
+---
+
+
+# WAS ist zu sehen? 
 
 
 <img src='img/Vordergrund.png' class='noresize'>
