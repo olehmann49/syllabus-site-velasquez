@@ -40,8 +40,6 @@ Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
 ## Museo del Prado
 
-<img src='img/MUSEODELPRADO.jpg' class='noresize'>
-
 https://lh3.googleusercontent.com/p/AF1QipN6GUICd-pgKnWB_jzrtHMuEs7QxK_BcRI2NsQo=s1360-w1360-h1020
 
 Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestaunen
