@@ -15,22 +15,43 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 # WO hing das Bild und wo hängt es heute? 
 
 
-## <img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
+## Palacio Buen Retiro Leonardo 
+
+<img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
+
+Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
+https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg
 
 
-## <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
+Der frühste bekannte Hängungsort ist die Sommerresidenz König Philip V. (Herrscahftszeit 1700 - 1746). Dem Buen Retiro
 
 
-## <img src='img/MUSEODELPRADO.jpg' class='noresize'>
+## Palacio Real de Madrid
+
+<img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
+
+Palacio Real de Madrid Juli 2016 / Tim Adams
+https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg
+
+Ab den 1770er Jahren hing es im damals neugebauten Papacio Real in Madrid
+
+
+## Museo del Prado
+
+<img src='img/MUSEODELPRADO.jpg' class='noresize'>
+
+Seit 1819 kannman das Gemälde im Museo del Prado im Raum 115A bestaunen
 
 
 ---
 
 
-# WER war Diego Velazquez?
+# WER war Diego Velázquez?
 
 
-## <img src='img/Diego_Velázquez.jpg' class='noresize'>
+## Selbstportrait
+
+<img src='img/Diego_Velázquez.jpg' class='noresize'>
 
 
 ---
