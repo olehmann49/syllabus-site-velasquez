@@ -15,7 +15,7 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 # WO hing das Bild und wo hängt es heute? 
 
 
-## Palacio Buen Retiro Leonardo 
+## Palacio Buen Retiro Leonardo
 
 <img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
 
@@ -23,8 +23,7 @@ https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leona
 
 Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
 
-Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresidenz König Philip V. 
-(Herrschaftszeit 1700 - 1746). 
+Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresidenz König Philip V.  (Herrschaftszeit 1700 - 1746). 
 
 
 ## Palacio Real de Madrid
