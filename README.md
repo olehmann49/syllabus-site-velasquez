@@ -22,8 +22,8 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
 https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg
 
-
-Der frühste bekannte Hängungsort ist die Sommerresidenz König Philip V. (Herrscahftszeit 1700 - 1746). Dem Buen Retiro
+Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresidenz König Philip V. 
+(Herrschaftszeit 1700 - 1746). 
 
 
 ## Palacio Real de Madrid
@@ -31,16 +31,17 @@ Der frühste bekannte Hängungsort ist die Sommerresidenz König Philip V. (Herr
 <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
 
 Palacio Real de Madrid Juli 2016 / Tim Adams
+
 https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg
 
-Ab den 1770er Jahren hing es im damals neugebauten Papacio Real in Madrid
+Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
 
 ## Museo del Prado
 
 <img src='img/MUSEODELPRADO.jpg' class='noresize'>
 
-Seit 1819 kannman das Gemälde im Museo del Prado im Raum 115A bestaunen
+Seit 1819 kan nman das Gemälde im Museo del Prado im Raum 115A bestaunen
 
 
 ---
@@ -52,6 +53,8 @@ Seit 1819 kannman das Gemälde im Museo del Prado im Raum 115A bestaunen
 ## Selbstportrait
 
 <img src='img/Diego_Velázquez.jpg' class='noresize'>
+
+https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
 
 ---
