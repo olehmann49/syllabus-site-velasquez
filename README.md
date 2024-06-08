@@ -19,7 +19,6 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 <img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
 
-
 https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg
 
 Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
@@ -32,9 +31,9 @@ Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresiden
 
 <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
 
-Palacio Real de Madrid Juli 2016 / Tim Adams
+https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg
 
-https://de.wikipedia.org/wiki/Datei:Palacio_Real  _de_Madrid_Julio_2016_(cropped).jpg
+Palacio Real de Madrid Juli 2016 / Tim Adams
 
 Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
@@ -43,7 +42,7 @@ Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
 <img src='img/MUSEODELPRADO.jpg' class='noresize'>
 
-https://lh3.googleusercontent.com/p/AF1QipN6GUICd-pgKnWB_jzrtHMuEs7QxK_BcRI2NsQo=s1360-w1360-h1020
+https://gatetotravel.de/travel-guide/city/ziel/madrid/dontmisss/Museo-del-Prado
 
 Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestaunen
 
