@@ -2,6 +2,8 @@
 
 <img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
 
+https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d 
+
 um 1656,
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid
@@ -58,6 +60,20 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
+## Daten
+
+Geboren afang Juni 1599 in Sevilla
+Gestorben am 7. August 1660 in Madrid
+
+## Sein Leben
+
+-	In Sevilla wuchs er auf und erlernte er das Kunsthandwerk
+-	1622 begab er sich nach Madrid 
+-	1623 wurde er Hofmaler von Philip V.
+-	In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie und Angehörige des Hofes
+-	Er begab sich in dieser Zeit auf 2 Italienreisen und tauschte sich mit vielen anderen zeitgenössischen Künstlern aus
+-	Velázquezs' Werke werden als die repräsentativsten und beeindruckensten Arbeiten des spanischen Barocks bezeichnet
+
 
 ---
 
@@ -69,22 +85,38 @@ https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
 <img src='img/Vordergrund.png' class='noresize'>
 
+Dargestellt ist ein Raum. Der erste Blick fällt auf eine Gruppe von drei Frauen, welche mit dem Herstellen von Garn beschäftigt sind.
+Zu ihren Füßen sitzt eine Katze. Links dreht eine ältere Frau am Spinnrad, um aus Wolle Garn zu machen. Dabei neigt sie ihren Kopf nach links. 
+
+Vom Betrachter abgewandt sitzt rechts im Bild eine jüngere und verarbeitet das Garn weiter indem sie es zu einem Knäul wickelt.
+
+Zwischen den beiden sitzt, zentral im Bild und zum Betrachter gerichtet, eine dritte Dame, welche Rohwolle vom Boden aufsammelt. In der linken Hand hält sie einen Wollkamm, um die Rohwolle damit zu bearbeiten.
+
 
 ## Figuren am Rand
 
 <img src='img/Randfiguren.png' class='noresize'>
+
+Zu diesen drei Figuren kommen zwei weitere an den Bildrändern hinzu. Eine am linken Bildrand, welche einen Vorhang beiseite schiebt, während sie augenscheinlich ein Gespräch mit der äteren führt.
+
+Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwickelnden Frau abstellt.
 
 
 ## Der Hintergrund
 
 <img src='img/Hintergrund.jpg' class='noresize'>
 
+Utensilien wie ein Wolknäul, hochgestapelte Wolle am linken Bidrand, sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
+
+
+
 
 ---
 
 
-# Die Kunsthistoriker
-Aby Warburg und Fritz Saxl
+# Neueste Deutungen 
+
+von Aby Warburg und Fritz Saxl
 
 
 ## Aby Warburg
@@ -100,7 +132,7 @@ https://de.wikipedia.org/wiki/Aby_Warburg
 
 <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
-Fritz Saxl (1890 - 1948) war ein öaterreuchischer Kunsthistoriker
+Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 https://de.wikipedia.org/wiki/Fritz_Saxl
 
