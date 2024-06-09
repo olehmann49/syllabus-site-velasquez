@@ -60,10 +60,12 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
+
 ## Daten
 
 Geboren afang Juni 1599 in Sevilla
 Gestorben am 7. August 1660 in Madrid
+
 
 ## Sein Leben
 
@@ -107,18 +109,13 @@ Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwi
 <img src='img/Hintergrund.jpg' class='noresize'>
 
 Utensilien wie ein Wolknäul, hochgestapelte Wolle am linken Bidrand, sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
-
 Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei elegant gekleidete Damen finden. Eine links am Bildrand an eine Viola de Gamba gelehnt.
 - Viola de Gamba:
   Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
   https://musiculum.de/gambe/
-
 Rechts stehen zwei weitere Damen. Eine mit dem Rücken zum Betrachter, die andere seitlich stehend den Kopf in Richtung des Betrachters geneigt.
-
 Des weiteren siht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebende der drei Damen angehören oder dem Wandteppich dahinter.
-
 Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht ist die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
-
 Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links, sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
 
 
