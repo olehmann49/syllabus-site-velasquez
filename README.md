@@ -124,14 +124,35 @@ Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti obe
 ---
 
 
-# Deutungen bis 1880  
+# Erste Deutungen durch Antonio Ponz und Anton Raphael Mengs
 
 
-## Platzhaltertext
+## Antonio Ponz
+
+<img src='img/Ponz-autorretrato.jpg' class='noresize'>
+
+[Quelle](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
+
+Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
 
 
+## Anton Raphael Mengs
 
---- 
+Geboren afang Juni 1599 in Sevilla
+Gestorben am 7. August 1660 in Madrid
+
+
+## Sein Leben
+
+-	In Sevilla wuchs er auf und erlernte er das Kunsthandwerk
+-	1622 begab er sich nach Madrid 
+-	1623 wurde er Hofmaler von Philip V.
+-	In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie und Angehörige des Hofes
+-	Er begab sich in dieser Zeit auf 2 Italienreisen und tauschte sich mit vielen anderen zeitgenössischen Künstlern aus
+-	Velázquezs' Werke werden als die repräsentativsten und beeindruckensten Arbeiten des spanischen Barocks bezeichnet
+
+
+---
 
 
 # Neueste Deutungen 
