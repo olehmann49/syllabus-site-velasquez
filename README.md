@@ -60,6 +60,8 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
+Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
+
 
 ## Daten
 
@@ -160,6 +162,7 @@ https://de.wikipedia.org/wiki/Fritz_Saxl
 ---
 
 
+<!--skipnav-->
 ## What
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
@@ -203,6 +206,7 @@ The template is in use to document the following [Interface Design](https://inte
 ---
 
 
+<!--skipnav-->
 ## How
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
@@ -260,6 +264,7 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 ---
 
 
+<!--skipnav-->
 ## Who
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
@@ -280,6 +285,7 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 ---
 
 
+<!--skipnav-->
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
 [<img src='img/id.svg' style='height:1.75em'>](https://interface.fh-potsdam.de/) 
 
