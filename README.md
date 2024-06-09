@@ -127,6 +127,10 @@ Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti obe
 # Deutungen bis 1880  
 
 
+
+
+
+
 --- 
 
 
@@ -151,12 +155,6 @@ https://de.wikipedia.org/wiki/Aby_Warburg
 Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 https://de.wikipedia.org/wiki/Fritz_Saxl
-
-
----
-
-
-    
 
 
 ---
