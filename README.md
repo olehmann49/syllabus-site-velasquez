@@ -108,10 +108,27 @@ Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwi
 
 Utensilien wie ein Wolknäul, hochgestapelte Wolle am linken Bidrand, sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
 
+Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei elegant gekleidete Damen finden. Eine links am Bildrand an eine Viola de Gamba gelehnt.
+- Viola de Gamba:
+  Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
+  https://musiculum.de/gambe/
 
+Rechts stehen zwei weitere Damen. Eine mit dem Rücken zum Betrachter, die andere seitlich stehend den Kopf in Richtung des Betrachters geneigt.
+
+Des weiteren siht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebende der drei Damen angehören oder dem Wandteppich dahinter.
+
+Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht ist die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
+
+Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links, sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
 
 
 ---
+
+
+# Deutungen bis 1880  
+
+
+--- 
 
 
 # Neueste Deutungen 
@@ -136,24 +153,11 @@ Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 https://de.wikipedia.org/wiki/Fritz_Saxl
 
----
-
-
-## Die Methode
-
 
 ---
 
 
-## Deutungen bis 1880      
-
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
-
-
-*Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
-
-
-This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
+    
 
 
 ---
