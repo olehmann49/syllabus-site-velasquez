@@ -58,7 +58,7 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 <img src='img/Diego_Velázquez.jpg' class='noresize'>
 
-[Quelle]https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
+[Quelle](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
 
 Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
 
@@ -131,19 +131,22 @@ Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti obe
 durch Antonio Ponz und Anton Raphael Mengs
 
 
-## Antonio Ponz
+## Antonio Ponz (1725–1792)
 
 <img src='img/Ponz-autorretrato.jpg' class='noresize'>
 
 [Quelle](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
 
-Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
+Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando
 
 
-## Anton Raphael Mengs
+## Anton Raphael Mengs (1728–1779)
 
-Geboren afang Juni 1599 in Sevilla
-Gestorben am 7. August 1660 in Madrid
+<img src='img/Ponz-autorretrato.jpg' class='noresize'>
+
+[Quelle](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
+
+Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi
 
 
 ---
@@ -178,18 +181,50 @@ Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parz
 [Quelle](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
 
 
-## Gregorio Cruzada 
+## Gregorio Cruzada Villaamil (1832 - 1884)
 
 <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg' class='noresize'>
 
 [Quelle](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
 
 
-
 ---
 
 
 # Carl Justis Fragen
+
+Justi spielte eine Schlüsselrolle in der Deutungsgeschichte des Gemäldes.  
+Er bietete die Ansätze für Warburg und Saxl
+
+
+## Seine Überlegungen zum Bild
+
+-	Er stellt die Vermutung an, dass in dem Wandteppich eine Episode eines mythologischen Dramas zu sehen sei
+-	Justi greift dahingehend den Gedanken von Madrazo auf 
+
+
+## Stellt das Bild ein Schauspiel dar?
+
+-	Diskrepanz zwischen Figuren auf dem Teppich, der Empore und den Arbeiterinnen führen zur Überlegung, dass es sich um ein Schauspiel handelt
+-	Viola de Gamba deutet auf Musik für die Zwischenakte
+
+<img src='img/Viola.jpg'>
+
+
+## Der meisterhafte Umgang mit dem Licht
+
+Laut Justi ist der eigentliche Gegenstand des Bildes das Licht
+-	Von hellen Körpern reflektiertes Sonnenlicht
+-	Indirekt farbige Reflexlicht im Schatten
+-	Durch Staubkörner gebrochene Sonnenstrahlen
+-	Licht in den Speichen des schwingenden Rades
+
+
+## Penelope und die Freier
+
+<img src='img/N-0911-00-000024-wpu.jpg'>
+
+[Quelle](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
 
 
 ---
