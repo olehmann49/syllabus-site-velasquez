@@ -142,11 +142,14 @@ Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de 
 
 ## Anton Raphael Mengs (1728–1779)
 
-<img src='img/Ponz-autorretrato.jpg' class='noresize'>
+<img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
 
 [Quelle](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
 
 Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi
+
+Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz Ylanderas nennt.
+Er ordnete das Bild als eine der letzten Werke Velásquez ein und bewunderte seine Maltechnik. Das Bild sei nicht mit der Hand sondern allein mit dem Willen gemalt.
 
 
 ---
@@ -199,8 +202,7 @@ Er bietete die Ansätze für Warburg und Saxl
 
 ## Seine Überlegungen zum Bild
 
--	Er stellt die Vermutung an, dass in dem Wandteppich eine Episode eines mythologischen Dramas zu sehen sei
--	Justi greift dahingehend den Gedanken von Madrazo auf 
+-	Er stellt die Vermutung an, dass in dem Wandteppich eine Episode eines mythologischen Dramas zu sehen sei. Dahingehend greift er den Gedanken von Madrazo auf, interpretiert jedoch nicht weiter.	Die Frage, welche Szene genau dargestellt ist. lässt er Bewust offen.
 
 
 ## Stellt das Bild ein Schauspiel dar?
@@ -209,6 +211,11 @@ Er bietete die Ansätze für Warburg und Saxl
 -	Viola de Gamba deutet auf Musik für die Zwischenakte
 
 <img src='img/Viola.jpg'>
+
+
+## Eine mögliche Entstehungsgeschiichte des Bildes 
+
+- Velazquez begleitet die 3  Damen im Hintergrund in seiner Rolle als Hofmarschall. Diese begutachteten die Teppiche im Hintergrund. Er hält die Szenerie der Bewegung der Gruppen als Skizze fest 
 
 
 ## Der meisterhafte Umgang mit dem Licht
@@ -225,6 +232,14 @@ Laut Justi ist der eigentliche Gegenstand des Bildes das Licht
 <img src='img/N-0911-00-000024-wpu.jpg'>
 
 [Quelle](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
+
+Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery
+
+Justi führt Pinturicchios Penelope und die Freier an 
+
+Auf dem Bild sitzt die Frau des Odysseus am Webstuhl und eine jüngere Frau beim Kämmen von Wolle zu sehen.
+Velázquez – so Justi – sei, indem er auf ein solches, die Arbeitsdarstellung motivierendes religiöses oder mythologisches Bildthema verzichtete, mit diesem „ältesten Arbeiter- oder Fabrikstück“ ein Wagnis eingegangen.
+Da das Bild jedoch sehr guten Anklang und Bewunderung in der Gesellschaft erfuhr gelang ihm laut Justi ein Glücksgriff.
 
 
 ---
@@ -251,6 +266,15 @@ Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der 
 [Quelle](https://de.wikipedia.org/wiki/Fritz_Saxl)
 
 Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
+
+## Die Fabel der Arachne
+
+<img src='img/Arachne.jpg'>
+
+[Quelle](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
+
+-	Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Ear in diesem bereits zu Rembrand und Rubens Recherchen fündig geworden und sollte es auch diesmal.
+So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene und Arachne.
 
 
 ---
