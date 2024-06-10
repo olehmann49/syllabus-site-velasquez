@@ -280,6 +280,15 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 ---
 
 
+# Fazit - Eine Allegorie der Webekunst
+
+
+## Fazit...................
+
+
+--
+
+
 <!--skipnav-->
 ## What
 
