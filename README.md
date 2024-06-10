@@ -291,50 +291,6 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 
 
 <!--skipnav-->
-# What
-
-A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
-
-
-### Design
-
-The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
-
-
-### Structure
-
-There are two main types of elements:
-
-- **Sections** – Larger blocks gather the material for weekly course sessions.
-- **Items** – Smaller elements feature images, text, and other content.
-
-Each item is connected with its section by a thin line. The navigation (≡) gives access to all sections.
-
-The last section acts as the footer, where the typical array of logos and links belongs.
-
-
-### Examples
-
-The template is in use to document the following [Interface Design](https://interface.fh-potsdam.de) courses offered at [FH Potsdam](https://www.fh-potsdam.de/):
-
-- **[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)** (Summer 2022)
-- **[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)** (Summer 2023)
-
-
-<img src='img/decolonizing.webp' class='noresize'>
-
-[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)
-
-
-<img src='img/organigrams.webp' class='noresize'>
-
-[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)
-
-
----
-
-
-<!--skipnav-->
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
 [<img src='img/id.svg' style='height:1.75em'>](https://interface.fh-potsdam.de/) 
 
