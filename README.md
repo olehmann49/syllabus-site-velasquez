@@ -281,17 +281,17 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 ---
 
 
-## Fazit - Eine Allegorie der Webekunst
+# Fazit - Eine Allegorie der Webekunst
 
 
-### Fazit...................
+## Fazit...................
 
 
 --
 
 
 <!--skipnav-->
-## What
+# What
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
 
