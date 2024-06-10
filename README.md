@@ -2,7 +2,7 @@
 
 <img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
 
-https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d 
+[Quelle](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)
 
 um 1656,
 Öl auf Leinwand, 220x289 cm,
@@ -21,7 +21,7 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die E
 
 <img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
 
-https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg
+[Quelle](https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg)
 
 Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
 
@@ -43,7 +43,7 @@ Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
 <img src='img/MUSEODELPRADO.jpg' class='noresize'>
 
-https://gatetotravel.de/travel-guide/city/ziel/madrid/dontmisss/Museo-del-Prado
+[Quelle](https://gatetotravel.de/travel-guide/city/ziel/madrid/dontmisss/Museo-del-Prado)
 
 Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestaunen
 
@@ -58,14 +58,14 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 <img src='img/Diego_Velázquez.jpg' class='noresize'>
 
-https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
+[Quelle]https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg
 
 Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
 
 
 ## Daten
 
-Geboren afang Juni 1599 in Sevilla
+Geboren afang Juni 1599 in Sevilla  
 Gestorben am 7. August 1660 in Madrid
 
 
@@ -119,14 +119,16 @@ Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei eleg
   
 Rechts stehen zwei weitere Damen. Eine mit dem Rücken zum Betrachter, die andere seitlich stehend den Kopf in Richtung des Betrachters geneigt.
 Des weiteren siht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebende der drei Damen angehören oder dem Wandteppich dahinter.
-Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht ist die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
+Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht sind die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
 Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links, sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
 
 
 ---
 
 
-# Erste Deutungen durch Antonio Ponz und Anton Raphael Mengs
+# Erste Deutungen
+
+durch Antonio Ponz und Anton Raphael Mengs
 
 
 ## Antonio Ponz
@@ -147,6 +149,54 @@ Gestorben am 7. August 1660 in Madrid
 ---
 
 
+# 1800-1888
+
+Bis 1888 wurde viel um das Entstehungsdatum gerätselt und einige neue Erkenntnisse über die Technik des Malers
+
+
+## Katalogbeschreibung im Museo del Prado 1828
+
+Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunchst die Unterschiede der sozialen Orte im Bild. 
+
+erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden
+
+-	Senioras – bezeichnung für Die Dame – direkte Anrede
+-	Mujeres – eine Frau / irgendeine Frau
+
+
+## Céan Bermúdez 
+
+Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parzen 
+
+- Parzen sind die drei Schicksalsgöttinnen Nona, Decima und Parca aus der römische Mythologie. [Quelle](https://hainhofer.hab.de/register/personen/parzen)
+
+## Pedro de Madrazo 
+
+<img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
+
+[Quelle](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
+
+
+## Gregorio Cruzada 
+
+<img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg' class='noresize'>
+
+[Quelle](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
+
+
+
+---
+
+
+# Carl Justis Fragen
+
+
+
+
+---
+
+
+
 # Neueste Deutungen 
 
 von Aby Warburg und Fritz Saxl
@@ -156,18 +206,18 @@ von Aby Warburg und Fritz Saxl
 
 <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
-Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg
+[Quelle](https://de.wikipedia.org/wiki/Aby_Warburg)
 
-https://de.wikipedia.org/wiki/Aby_Warburg
+Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg
 
 
 ## Fritz Saxl
 
 <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
-Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
+[Quelle](https://de.wikipedia.org/wiki/Fritz_Saxl)
 
-https://de.wikipedia.org/wiki/Fritz_Saxl
+Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 
 ---
