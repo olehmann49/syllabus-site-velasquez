@@ -32,7 +32,7 @@ Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresiden
 
 <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
 
-https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg
+[Quelle](https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg)
 
 Palacio Real de Madrid Juli 2016 / Tim Adams
 
@@ -151,17 +151,17 @@ Gestorben am 7. August 1660 in Madrid
 
 # 1800-1888
 
-Bis 1888 wurde viel um das Entstehungsdatum gerätselt und einige neue Erkenntnisse über die Technik des Malers
+Bis 1888 wurde viel um das Entstehungsdatum gerätselt. Außerdem gab einige neue Erkenntnisse über die Technik des Malers.
 
 
 ## Katalogbeschreibung im Museo del Prado 1828
 
 Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunchst die Unterschiede der sozialen Orte im Bild. 
 
-erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden
+Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden
 
--	Senioras – bezeichnung für Die Dame – direkte Anrede
--	Mujeres – eine Frau / irgendeine Frau
+-	Senioras - bezeichnung für Die Dame – direkte Anrede
+-	Mujeres - eine Frau / irgendeine Frau
 
 
 ## Céan Bermúdez 
@@ -169,6 +169,7 @@ erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die ar
 Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parzen 
 
 - Parzen sind die drei Schicksalsgöttinnen Nona, Decima und Parca aus der römische Mythologie. [Quelle](https://hainhofer.hab.de/register/personen/parzen)
+
 
 ## Pedro de Madrazo 
 
@@ -191,13 +192,10 @@ Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parz
 # Carl Justis Fragen
 
 
-
-
 ---
 
 
-
-# Neueste Deutungen 
+# Antworten auf diese Fragen
 
 von Aby Warburg und Fritz Saxl
 
