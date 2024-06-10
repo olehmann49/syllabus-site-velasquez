@@ -267,6 +267,7 @@ Aby Warbunrg (1866-1929) war ein hamburger Kunsthistoriker und Professor an der 
 
 Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
+
 ## Die Fabel der Arachne
 
 <img src='img/Arachne.jpg'>
@@ -280,10 +281,10 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 ---
 
 
-# Fazit - Eine Allegorie der Webekunst
+## Fazit - Eine Allegorie der Webekunst
 
 
-## Fazit...................
+### Fazit...................
 
 
 --
