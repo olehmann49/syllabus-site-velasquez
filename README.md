@@ -8,7 +8,7 @@ um 1656,
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid
 
-Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die die Entschlüsselung dieses durch Aby Warburg und Fritz Saxl. Niedergeschrieben von Karin Hellwig im Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“
+Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei das Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
 
 ---
