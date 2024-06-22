@@ -60,7 +60,7 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 [Quelle](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
 
-Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm
+_Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm_
 
 
 ## Daten
@@ -137,7 +137,7 @@ durch Antonio Ponz und Anton Raphael Mengs
 
 [Quelle](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
 
-Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando
+_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_
 
 
 ## Anton Raphael Mengs (1728–1779)
@@ -146,7 +146,7 @@ Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de 
 
 [Quelle](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
 
-Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi
+_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz Ylanderas nennt.
 Er ordnete das Bild als eine der letzten Werke Velásquez ein und bewunderte seine Maltechnik. Das Bild sei nicht mit der Hand sondern allein mit dem Willen gemalt.
