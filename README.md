@@ -23,7 +23,7 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entsc
 
 [Quelle](https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg)
 
-Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637.
+_Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637._
 
 Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresidenz König Philip V.  (Herrschaftszeit 1700 - 1746). 
 
@@ -34,7 +34,7 @@ Der frühste bekannte Hängungsort Der Buen Retiro Palacio ist die Sommerresiden
 
 [Quelle](https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg)
 
-Palacio Real de Madrid Juli 2016 / Tim Adams
+_Palacio Real de Madrid Juli 2016 / Foto: Tim Adams_
 
 Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid
 
@@ -233,7 +233,7 @@ Laut Justi ist der eigentliche Gegenstand des Bildes das Licht
 
 [Quelle](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
 
-Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery
+_Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery_
 
 Justi führt Pinturicchios Penelope und die Freier an 
 
