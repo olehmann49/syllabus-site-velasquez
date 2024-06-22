@@ -4,9 +4,9 @@
 
 [Quelle](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)
 
-um 1656,
+_um 1656,
 Öl auf Leinwand, 220x289 cm,
-Museo del Prado in Madrid
+Museo del Prado in Madrid_
 
 Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei das Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
