@@ -71,7 +71,7 @@ Gestorben am 7. August 1660 in Madrid
 
 ## Sein Leben
 
--	In Sevilla wuchs er auf und erlernte er das Kunsthandwerk
+-	In Sevilla wuchs er auf und erlernte das Kunsthandwerk
 -	1622 begab er sich nach Madrid 
 -	1623 wurde er Hofmaler von Philip V.
 -	In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie und Angehörige des Hofes
@@ -112,15 +112,16 @@ Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwi
 
 Utensilien wie ein Wolknäul, hochgestapelte Wolle am linken Bidrand, sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
 Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei elegant gekleidete Damen finden. Eine links am Bildrand an eine Viola de Gamba gelehnt.
-
-- Viola de Gamba:
-  Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
-  https://musiculum.de/gambe/
-  
 Rechts stehen zwei weitere Damen. Eine mit dem Rücken zum Betrachter, die andere seitlich stehend den Kopf in Richtung des Betrachters geneigt.
 Des weiteren siht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebende der drei Damen angehören oder dem Wandteppich dahinter.
 Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht sind die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
 Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links, sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
+
+
+## Viola de Gamba:
+Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
+
+[Quelle](https://musiculum.de/gambe/)
 
 
 ---
@@ -139,6 +140,9 @@ durch Antonio Ponz und Anton Raphael Mengs
 
 _Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_
 
+Antonio Ponz war ein Spanischer Kunstschriftsteller. Er beschäftigte sich erstmals näher mit dem Bild, indem er die Räume des Palacio Real im Jahr 1772 beschrieb. 
+Aus dieser Beschreibung geht hervor, dass das Bild schon damals eine gewisse Berühmtheit genoss.
+
 
 ## Anton Raphael Mengs (1728–1779)
 
@@ -149,7 +153,7 @@ _Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de
 _Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz Ylanderas nennt.
-Er ordnete das Bild als eine der letzten Werke Velásquez ein und bewunderte seine Maltechnik. Das Bild sei nicht mit der Hand sondern allein mit dem Willen gemalt.
+Außerdem ordnete das Bild als eine der letzten Werke von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand sondern allein mit dem Willen gemalt. 
 
 
 ---
@@ -162,17 +166,17 @@ Bis 1888 wurde viel um das Entstehungsdatum gerätselt. Außerdem gab einige neu
 
 ## Katalogbeschreibung im Museo del Prado 1828
 
-Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunchst die Unterschiede der sozialen Orte im Bild. 
+Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunchst die Unterschiede der sozialen Orte im Bild.
 
 Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden
 
--	Senioras - bezeichnung für Die Dame – direkte Anrede
--	Mujeres - eine Frau / irgendeine Frau
+-	Senioras - bezeichnung für **Die Dame – direkte Anrede**
+-	Mujeres - **eine Frau / irgendeine Frau**
 
 
 ## Céan Bermúdez 
 
-Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parzen 
+Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parzen
 
 - Parzen sind die drei Schicksalsgöttinnen Nona, Decima und Parca aus der römische Mythologie. [Quelle](https://hainhofer.hab.de/register/personen/parzen)
 
@@ -237,8 +241,8 @@ _Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, Nation
 
 Justi führt Pinturicchios Penelope und die Freier an 
 
-Auf dem Bild sitzt die Frau des Odysseus am Webstuhl und eine jüngere Frau beim Kämmen von Wolle zu sehen.
-Velázquez – so Justi – sei, indem er auf ein solches, die Arbeitsdarstellung motivierendes religiöses oder mythologisches Bildthema verzichtete, mit diesem „ältesten Arbeiter- oder Fabrikstück“ ein Wagnis eingegangen.
+Auf dem Bild sitzt die Frau des Odysseus am Webstuhl. Des weiteren ist eine jüngere Frau beim kämmen von Wolle zu sehen.
+Velázquez sei, indem er auf ein solches, die Arbeitsdarstellung motivierendes religiöses oder mythologisches Bildthema verzichtete, mit diesem „ältesten Arbeiter- oder Fabrikstück“ ein Wagnis eingegangen.
 Da das Bild jedoch sehr guten Anklang und Bewunderung in der Gesellschaft erfuhr gelang ihm laut Justi ein Glücksgriff.
 
 
