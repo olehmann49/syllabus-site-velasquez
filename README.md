@@ -295,13 +295,15 @@ Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 [Quelle](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
 
--	Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrand und Rubens Recherchen fündig geworden und sollte es auch diesmal.
-So deutete die Szene auf dem Teppich als Teil des Wettstreits zwischen Pallas Athene und Arachne.
+-	Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrandt und Rubens Recherchen fündig geworden. Er deutete die Szene auf dem Teppich als Teil des Wettstreits zwischen Pallas Athene und Arachne. Genauer um den Teil kurz vor der Verwandlung von Arachne in eine Spinne, was ihre Bestrafung dafür sein sollte, dass sie sich und ihr Können über die Götter gestellt hat.
 
 
 ## Die Fabel erklärt 
 
-<iframe width="3423" height="1128" src="https://www.youtube.com/embed/XvUHcsZOhJ8" title="The myth of Arachne  - Iseult Gillespie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Bilder sagen mehr als Worte.. Wer sich die Fabel also gern anschauen möchte kann dies unter diesem [Link](https://www.youtube.com/watch?v=XvUHcsZOhJ8) gerne tun.
+Wem die Textform doch lieber ist oder nicht ganz so fit in englisch ist, bekommt hier noch eine kleine Zusammenfassung der Fabel:
+
+Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niemanden über sich zu haben, nicht einmal die Göttin Athene. Diese Herausforderung nahm Athene an, und die beiden traten in einem Wettstreit gegeneinander an. Arachne webte ein Tuch, das die Fehltritte der Götter darstellte, was Athene erzürnte. Obwohl Athenes eigenes Werk perfekt war, konnte sie Arachnes Können nicht leugnen. In ihrem Zorn zerstörte Athene Arachnes Tuch und verwandelte sie zur Strafe in eine Spinne, damit sie für immer weben müsse.
 
 
 ---
