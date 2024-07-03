@@ -14,6 +14,19 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entsc
 ---
 
 
+# WANN ist das Bild entstanden?
+
+## Nach neuester Schätzung ist das Bild zwischen 1655 und 1660 entstanden. Damit gehört es definitiv zu den letzten Werken von Velázquez.
+Es ist somit der Kunstepoche zuzuordnen. Die feine Ausarbeitung kleinster Details und vor allem die Darstellung des Lichtes sorgen für einen für damalige Verhältnisse unglaublichen Realismus.
+
+## 
+
+<img src='img/ZeitlicheEinordnung.PNG' class='noresize'>
+
+
+---
+
+
 # WO hing das Bild und wo hängt es heute? 
 
 
@@ -110,18 +123,19 @@ Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwi
 
 <img src='img/Hintergrund.jpg' class='noresize'>
 
-Utensilien wie ein Wolknäul, hochgestapelte Wolle am linken Bidrand, sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
+Utensilien wie ein Wollknäuel, hochgestapelte Wolle am linken Bildrand sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
 Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei elegant gekleidete Damen finden. Eine links am Bildrand an eine Viola de Gamba gelehnt.
 Rechts stehen zwei weitere Damen. Eine mit dem Rücken zum Betrachter, die andere seitlich stehend den Kopf in Richtung des Betrachters geneigt.
-Des weiteren siht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebende der drei Damen angehören oder dem Wandteppich dahinter.
-Da sie große Teile des Wandteppichs verdecken könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht sind die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
-Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links, sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
-
+Des weiteren sieht man hinter den drei eleganten Damen zwei weitere Figuren. Eine behelmte, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebene der drei Damen angehören oder dem Wandteppich dahinter.
+Da sie große Teile des Wandteppichs verdecken, könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht, sind die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
+Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
 
 ## Viola de Gamba:
 Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
 
 [Quelle](https://musiculum.de/gambe/)
+
+<img src='img/Viola.jpg' class='noresize'>
 
 
 ---
@@ -140,7 +154,7 @@ durch Antonio Ponz und Anton Raphael Mengs
 
 _Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_
 
-Antonio Ponz war ein Spanischer Kunstschriftsteller. Er beschäftigte sich erstmals näher mit dem Bild, indem er die Räume des Palacio Real im Jahr 1772 beschrieb. 
+Antonio Ponz war ein spanischer Kunstschriftsteller. Er beschäftigte sich erstmals näher mit dem Bild, indem er die Räume des Palacio Real im Jahr 1772 beschrieb. 
 Aus dieser Beschreibung geht hervor, dass das Bild schon damals eine gewisse Berühmtheit genoss.
 
 
@@ -153,7 +167,7 @@ Aus dieser Beschreibung geht hervor, dass das Bild schon damals eine gewisse Ber
 _Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz Ylanderas nennt.
-Außerdem ordnete das Bild als eine der letzten Werke von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand sondern allein mit dem Willen gemalt. 
+Außerdem ordnete das Bild als eine der letzten Werke von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
 
 
 ---
@@ -219,7 +233,7 @@ Er bietete die Ansätze für Warburg und Saxl
 
 ## Eine mögliche Entstehungsgeschiichte des Bildes 
 
-- Velazquez begleitet die 3  Damen im Hintergrund in seiner Rolle als Hofmarschall. Diese begutachteten die Teppiche im Hintergrund. Er hält die Szenerie der Bewegung der Gruppen als Skizze fest 
+- Velazquez begleitet die 3  Damen im Hintergrund in seiner Rolle als Hofmarschall. Diese begutachteten die Teppiche im Hintergrund. Er findet die Gesamte Szenerie sehr faszinierend und hält diese als Skizze fest.
 
 
 ## Der meisterhafte Umgang mit dem Licht
@@ -291,7 +305,7 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 ## Fazit...................
 
 
---
+---
 
 
 <!--skipnav-->
