@@ -17,8 +17,10 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entsc
 # WANN ist das Bild entstanden?
 
 
-## Nach neuester Schätzung ist das Bild zwischen 1655 und 1660 entstanden. Damit gehört es definitiv zu den letzten Werken von Velázquez.
-Es ist somit der Kunstepoche zuzuordnen. Die feine Ausarbeitung kleinster Details und vor allem die Darstellung des Lichtes sorgen für einen für damalige Verhältnisse unglaublichen Realismus.
+## 1655 - 1660
+
+Nach neuester Schätzung ist das Bild zwischen 1655 und 1660 entstanden. Damit gehört es definitiv zu den letzten Werken von Velázquez.
+Es ist somit dem Barock zuzuordnen. Die feine Ausarbeitung kleinster Details und vor allem die Darstellung des Lichtes sorgen für einen für damalige Verhältnisse unglaublichen Realismus, für dem Velázquez unter anderem Bekannt war.
 
 
 ## 
