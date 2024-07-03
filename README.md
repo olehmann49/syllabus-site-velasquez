@@ -167,7 +167,7 @@ Aus dieser Beschreibung geht hervor, dass das Bild schon damals eine gewisse Ber
 _Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz Ylanderas nennt.
-Außerdem ordnete das Bild als eine der letzten Werke von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
+Außerdem ordnete er das Bild als eines der letzten Werke von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
 
 
 ---
@@ -182,7 +182,7 @@ Bis 1888 wurde viel um das Entstehungsdatum gerätselt. Außerdem gab einige neu
 
 Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunchst die Unterschiede der sozialen Orte im Bild.
 
-Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden
+Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden.
 
 -	Senioras - bezeichnung für **Die Dame – direkte Anrede**
 -	Mujeres - **eine Frau / irgendeine Frau**
@@ -190,10 +190,13 @@ Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die ar
 
 ## Céan Bermúdez 
 
-Cean Bermùde vergleicht die drei Garn spinnenden Frauen im Vordergrund mit Parzen
+Kurz nach 1800 verglich der spanische Kunstschriftsteller Céan Bermùdez die drei Garn spinnenden Frauen im Vordergrund mit Parzen.
 
-- Parzen sind die drei Schicksalsgöttinnen Nona, Decima und Parca aus der römische Mythologie. [Quelle](https://hainhofer.hab.de/register/personen/parzen)
+- Parzen sind die drei **Schicksalsgöttinnen** Nona, Decima und Parca aus der römischen Mythologie. Laut dieser ist es ihre Aufgabe, das Schicksal der Menschen zu spinnen.
+[Quelle](https://hainhofer.hab.de/register/personen/parzen)
 
+<img src='img/1920x1080-parques.jpg'>
+  
 
 ## Pedro de Madrazo 
 
@@ -292,8 +295,13 @@ Fritz Saxl (1890 - 1948) war ein österreuchischer Kunsthistoriker
 
 [Quelle](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
 
--	Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Ear in diesem bereits zu Rembrand und Rubens Recherchen fündig geworden und sollte es auch diesmal.
-So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene und Arachne.
+-	Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrand und Rubens Recherchen fündig geworden und sollte es auch diesmal.
+So deutete die Szene auf dem Teppich als Teil des Wettstreits zwischen Pallas Athene und Arachne.
+
+
+## Die Fabel erklärt 
+
+<iframe width="3423" height="1128" src="https://www.youtube.com/embed/XvUHcsZOhJ8" title="The myth of Arachne  - Iseult Gillespie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -302,7 +310,7 @@ So deutete die Szene auf dem Teppich als den Wettstreit zwischen Pallas Athene u
 # Fazit - Eine Allegorie der Webekunst
 
 
-## Fazit...................
+
 
 
 ---
