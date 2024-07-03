@@ -204,7 +204,7 @@ Kurz nach 1800 verglich der spanische Kunstschriftsteller Céan Bermùdez die dr
 [Quelle](https://hainhofer.hab.de/register/personen/parzen)
 
 <img src='img/1920x1080-parques.jpg'>
-  
+
 
 ## Pedro de Madrazo 
 
