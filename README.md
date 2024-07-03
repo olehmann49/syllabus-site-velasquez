@@ -311,8 +311,8 @@ Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niema
 
 # Fazit - Eine Allegorie der Webekunst
 
-
-
+Das Bild hat im Laufe der Jahrhunderte einige Kunsthistoriker beschäftigt. Der aktuelle Kenntnisstand hier noch einmal zusammengefasst:
+Das Ölgemälde gehört zum Spätwerk von Velázquez. Es stellt höchstwahrscheinlich eine reale Szene in einer Teppichwerkstatt in Madrid dar. Die Damen auf der Empore gehören ihrer Kleidung nach zu Urteilen dem spanischen Hof an. Sie bestaunen entweder Das Teppichbild oder aber ein Schauspiel, was vor diesem dargestellt ist. Diese Frage wird wohl weiterhin unbeantwortet bleiben. In jedem Fall handelt es sich um eine Szene der römisch griechischen Mythologie, in der Arachne für ihren Hochmut von Athene bestraft wird. Diese Fabel hat ebenso viel mit der Tätigkeit des Spinnens wie mit der Spinne selbst zu tun und schließt damit den Kreis zwischen Vorder- und Hintergrund des Bildes. Velázquez führt hier also völlig bruchlos eine Arbeiterszene, den höfischen Stand und antike Sagen auf einem Bild der Meisterklasse zusammen. Es wird gedeutet, dass Velázquez damit den stetigen Wettstreit in der Kunst und somit auch die kontinuierliche Weiterentwicklung dieser betont. 
 
 
 ---
