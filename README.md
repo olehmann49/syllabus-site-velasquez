@@ -131,11 +131,11 @@ Da sie große Teile des Wandteppichs verdecken, könnten sie tatsächlich im Rau
 Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
 
 
-## Viola de Gamba:
+## Viola de Gamba
 
 <img src='img/Viola.jpg' class='noresize'>
 
-Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand zur selben Zeit wie die Violinfamilie. Die Bezeichnung da gamba leitet sich von der Spielhaltung ab.  
+Gambe (oder Viola da gamba),  früher auch Kniegeige, Beingeige  oder Schoßgeige genannt, ist eine  Sammelbezeichnung für eine Familie historischer  Streichinstrumente. Sie entstand  zur selben Zeit wie die Violinfamilie.  Die Bezeichnung "de Gamba"  leitet sich von der Spielhaltung ab.  
 
 [Quelle](https://musiculum.de/gambe/)
 
