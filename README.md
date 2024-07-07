@@ -278,12 +278,20 @@ von Aby Warburg und seinem Mitarbeiter Fritz Saxl. Im Zuge ihrer Arbeit an der k
 
 ## <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
-[_Aby Warbunrg, geboren 1866 in Hamburg, gestorben 1929 auch in Hamburg war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg._](https://de.wikipedia.org/wiki/Aby_Warburg)
+[_Aby Warburg in späten Jahren, 1925, Kunsthistorisches Institut in Florenz, Max-Planck-Institut_](https://de.wikipedia.org/wiki/Aby_Warburg)
+
+## Aby Warbunrg
+
+Aby Warbunrg, geboren 1866 in Hamburg, gestorben 1929 auch in Hamburg war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg.
 
 
 ## <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
-[_Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein österreichischer Kunsthistoriker._](https://de.wikipedia.org/wiki/Fritz_Saxl)
+[_Fritz Saxl, Fotograf unbekannt(Warburg Institute London)_, ca. 1924, in der Kunsthistorischen Bibliothek Warburg, Hamburg_](https://de.wikipedia.org/wiki/Fritz_Saxl)
+
+## Fritz Saxl
+
+Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein österreichischer Kunsthistoriker.
 
 
 ## Die Fabel der Arachne
