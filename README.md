@@ -22,9 +22,7 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entsc
 Nach den neuesten Schätzungen stammt dieses Gemälde aus der Zeit zwischen 1655 und 1660, und zählt somit zweifellos zu den späten Werken von Velázquez. Es ist eindeutig dem Barock zuzuordnen. Die akribische Ausarbeitung selbst der kleinsten Details und insbesondere die meisterhafte Darstellung des Lichts verleihen diesem Werk einen bemerkenswert hohen Realismus, für den Velázquez unter anderem berühmt war.
 
 
-## 
-
-<img src='img/ZeitlicheEinordnung.PNG' class='noresize'>
+## <img src='img/ZeitlicheEinordnung.PNG' class='noresize'>
 
 
 ---
@@ -37,9 +35,7 @@ Nach den neuesten Schätzungen stammt dieses Gemälde aus der Zeit zwischen 1655
 
 <img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
 
-[Quelle](https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg)
-
-_Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637._
+[_Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637._](https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg)
 
 Als erster bekannter Hängungsort gilt Der Buen Retiro Palacio. Dieser ist die Sommerresidenz von König Philip V.  (Herrschaftszeit 1700 - 1746). 
 
@@ -49,8 +45,6 @@ Als erster bekannter Hängungsort gilt Der Buen Retiro Palacio. Dieser ist die S
 <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
 
 [_Palacio Real de Madrid Juli 2016 / Foto: Tim Adams_](https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg)
-
-
 
 Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid.
 
