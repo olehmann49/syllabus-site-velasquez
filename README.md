@@ -171,7 +171,7 @@ Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die ar
 
 ## Céan Bermúdez 
 
-Kurz nach 1800 verglich der spanische Kunstschriftsteller Céan Bermùdez die drei Garn spinnenden Frauen im Vordergrund mit **Parzen**.
+Kurz nach 1800 verglich der spanische Kunstschriftsteller Juan Agustín Ceán Bermùdez, geboren 1749 in Gijón, gestorben 1829 in Madrid, die drei Garn spinnenden Frauen im Vordergrund mit **Parzen**.
 
 Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der römischen Mythologie. Laut dieser ist es ihre Aufgabe, das Schicksal der Menschen zu spinnen.
 
@@ -200,9 +200,9 @@ Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufaktu
 
 # Der Wandteppich 
 
-1895 identifizierte der französische Maler und Kunstkritiker Émile Michel im Hintergrund der Teppichszene eine Gestalt in Art der Europa auf dem Stier, von einem Schwarm Amoretten begleitet. Als Vergleich zog er dabei das Bild Raub der Europa von Tizian hinzu.
+1895 identifizierte der französische Maler und Kunstkritiker **Émile Michel** im Hintergrund der Teppichszene eine Gestalt in Art der **Europa auf dem Stier**, von einem Schwarm Amoretten begleitet. Zum Vergleich zog er dabei das Bild Raub der Europa von Tizian hinzu.
 Auf dem Bild ist ein Teil einer mythologischen Episode zu sehen, in der Zeus sich verliebt, in Gestalt eines Stiers auf die Erde kommt und mit der schönen Europa auf das Meer hinaus bis nach Kreta schwimmt. So soll unser Kontinent seinen Namen bekommen haben.  
-Man erkennt definitiv, dass es sich um das selbe Motiv handelt, wenn man beide Bilder Vergleicht. Vor Allem die zwei Putti, sowie das rote Tuch weisen eine starke Ähnlichkeit auf.
+Man erkennt definitiv, dass es sich um das selbe Motiv handelt, wenn man beide Bilder Vergleicht. Vor Allem die zwei Putti, sowie das rote Tuch weisen eine starke Ähnlichkeit auf. Der Stier und Europa werden zum größten Teil von anderen Figuren verdeckt.
 
 
 ## <img src='img/Tizian_085.jpg'>
