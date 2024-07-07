@@ -273,7 +273,7 @@ Das Bild wurde in der Gesellschaft jedoch sehr gut aufgenommen und bewundert. La
 
 # Antworten auf diese Fragen
 
-von Aby Warburg und Fritz Saxl
+von Aby Warburg und seinem Mitarbeiter Fritz Saxl. Im Zuge ihrer Arbeit an der kulturwissenschaftlichen Bibliothek Warburg (KBW).
 
 
 ## <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
