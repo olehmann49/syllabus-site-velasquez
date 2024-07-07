@@ -186,11 +186,12 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 
 ## <img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
 
-[_**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)  
+[_Porträt von Pedro de Madrazo y Kuntz von J. Laurent, 1861, Foto auf Papier; Album der Retratos von Hartzenbusch. Nationalbibliothek von Spanien_](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)  
 
 ## Pedro de Madrazo 
 
-In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
+**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker.
+In den 1870er Jahren vermutete Pedro erstmals, das es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
 
 
 ## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
