@@ -75,7 +75,7 @@ Gestorben am 7. August 1660 in Madrid.
 
 ## Sein Leben
 
-Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schin ein Jahr später zum Holfmaler von Philip V. In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie, sowie Angehörige des Hofes. Dieser Stand ermöglichteihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
+Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schon ein Jahr später zum Holfmaler von Philip V. In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie, sowie Angehörige des Hofes. Dieser Stand ermöglichte ihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
 
 
 ---
@@ -138,7 +138,9 @@ Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, sie sic
 
 ## <img src='img/Ponz-autorretrato.jpg' class='noresize'>
 
-[_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)  
+[_**Antonio Ponz**, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)  
+
+## Antonio Ponz
 
 Antonio Ponz war ein **spanischer Kunstschriftsteller**. Er wurde **1725 in Bejís, Spanien geboren** und **verstarb 1792 in Madrid**. Im Zuge einer Beschreibung der Räume des Palacio Real im Jahr 1772 beschäftigte er sich erstmals näher mit dem Bild, 
 Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse Berühmtheit genoss**.
@@ -147,6 +149,9 @@ Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse B
 ## <img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
 
 [_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )  
+
+
+## Anton Raphael Mengs 
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs, **geboren 1728** in Aussig, **gestorben 1779** in Rom intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz **Ylanderas** nennt.
 Außerdem ordnete er das Bild als **eines der letzten Werke** von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
@@ -232,6 +237,9 @@ Er bietete die Ansätze für Warburg und Saxl
 
 [_Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
 
+
+## Carl Justo 
+
 Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen.
 
 
@@ -255,7 +263,9 @@ Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wi
 [_**Penelope und die Freier**, Pinturicchio, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)  
 
 
-## Justi führt **Penelope und die Freier** an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als **Pinturicchio**, gemalt.
+## Penelope und die Freier
+
+Justi führt **Penelope und die Freier** an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als **Pinturicchio**, gemalt.
 Auf dem Bild sitzt die Frau des Odysseus am Webstuhl. Außerdem ist eine jüngere Frau zu sehen, die Wolle kämmt.
 Velázquez wagte ein Experiment, indem er auf ein **religiöses oder mythologisches Bildthema verzichtete**, das normalerweise solche Darstellungen der Arbeit motiviert. Stattdessen bot er mit diesem **„ältesten Arbeiter- oder Fabrikstück“** ein unübliches Bildthema.
 Das Bild wurde in der Gesellschaft jedoch sehr gut aufgenommen und bewundert. Laut Justi gelang ihm damit ein **Glücksgriff**.
