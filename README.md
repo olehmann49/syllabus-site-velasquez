@@ -19,8 +19,7 @@ Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entsc
 
 ## 1655 - 1660
 
-Nach neuester Schätzung ist das Bild zwischen 1655 und 1660 entstanden. Damit gehört es definitiv zu den letzten Werken von Velázquez.
-Es ist somit dem Barock zuzuordnen. Die feine Ausarbeitung kleinster Details und vor allem die Darstellung des Lichtes sorgen für einen für damalige Verhältnisse enormen Realismus, für den Velázquez unter anderem bekannt war.
+Nach den neuesten Schätzungen stammt dieses Gemälde aus der Zeit zwischen 1655 und 1660, und zählt somit zweifellos zu den späten Werken von Velázquez. Es ist eindeutig dem Barock zuzuordnen. Die akribische Ausarbeitung selbst der kleinsten Details und insbesondere die meisterhafte Darstellung des Lichts verleihen diesem Werk einen bemerkenswert hohen Realismus, für den Velázquez unter anderem berühmt war.
 
 
 ## 
@@ -77,13 +76,13 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 [Quelle](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
 
-_Diego Velázquez, vor 1660 Öl auf Leinwand, 58x40 cm_
+_Diego Velázquez, vor 1660, Öl auf Leinwand, 58x40 cm_
 
 
 ## Daten
 
-Geboren afang Juni 1599 in Sevilla  
-Gestorben am 7. August 1660 in Madrid
+Geboren afang Juni 1599 in Sevilla.  
+Gestorben am 7. August 1660 in Madrid.
 
 
 ## Sein Leben
@@ -122,20 +121,27 @@ Die andere befindet sich am rechten Bildrand, wo sie einen Korb neben der Garnwi
 
 <img src='img/Hintergrund.jpg' class='noresize'>
 
-Utensilien wie ein Wollknäuel, hochgestapelte Wolle am linken Bildrand sowie eine an der Wand lehnende Leiter charakterisieren den Raum als Spinnerei.
-Ein weiterer Raum eröffnet sich durch eine Stufe nach hinten, wo sich drei elegant gekleidete Damen finden. Eine links am Bildrand an eine Viola de Gamba gelehnt.
-Rechts stehen zwei weitere Damen. Im blauen Kleid steht eine von ihnen mit dem Rücken zum Betrachter, die andere seitlich zu ihr und den Kopf in Richtung des Betrachters geneigt.
-Außerdem sieht man hinter den drei eleganten Damen zwei weitere Figuren. Eine mit Metallischen Helm, den rechten Arm erhoben und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut.
-Bei diesen Figuren ist es nicht genau erkennbar, ob sie der Ebene der drei Damen angehören oder dem Wandteppich dahinter.
-Da sie große Teile des Wandteppichs verdecken, könnten sie tatsächlich im Raum stehen, was jedoch dagegen spricht, sind die Unterschiede der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen.
-Was aber definitiv dem Wandteppich zuzuordnen ist, sind zwei fliegende Putti oben links sowie schemenhaft eine auf einem Stier reitende Frau mit einem wehenden roten Tuch.
+Die Szene wird durch charakteristische Utensilien wie ein Wollknäuel, hochgestapelte Wolle am linken Bildrand und eine an der Wand lehnende Leiter als eine Spinnerei gekennzeichnet.
+Ein weiterer Raum öffnet sich durch eine Stufe nach hinten, in dem sich drei elegant gekleidete Damen befinden. Eine Dame lehnt sich links am Bildrand an eine Viola de Gamba.
+Auf der rechten Seite stehen zwei weitere Damen. Die Eine im blauen Kleid steht mit dem Rücken zum Betrachter, während die Andere seitlich zu ihr steht und den Kopf in Richtung des Betrachters neigt.
+Des Weiteren sind hinter den drei eleganten Damen zwei weitere Figuren zu sehen. Eine Figur mit einem metallischen Helm, den rechten Arm erhoben, und ihr gegenüber eine junge Frau, die ihre Arme ausgebreitet hat und zu der behelmten Figur schaut. Es ist nicht eindeutig zu erkennen, ob diese Figuren zur Ebene der drei Damen gehören oder dem Wandteppich im Hintergrund.
+Da sie Teile des Wandteppichs verdecken, könnte man annehmen, dass sie tatsächlich im Raum stehen. Jedoch weisen die Unterschiede in der Malweise dieser Figuren im Vergleich zu den anderen Figuren in den Räumen darauf hin, dass sie möglicherweise dem Wandteppich zuzuordnen sind.
+Definitiv dem Wandteppich zugehörig sind zwei fliegende Putti oben links sowie schemenhaft eine Frau, die auf einem Stier reitet und ein wehendes rotes Tuch trägt.
 
 
 ## Viola de Gamba
 
-<img src='img/Viola.jpg' class='noresize'>
+<img src='img/Viola.jpg'>
 
-Gambe (oder Viola da gamba),  früher auch Kniegeige, Beingeige  oder Schoßgeige genannt, ist eine  Sammelbezeichnung für eine Familie historischer  Streichinstrumente. Sie entstand  zur selben Zeit wie die Violinfamilie.  Die Bezeichnung "de Gamba"  leitet sich von der Spielhaltung ab.  
+Gambe (oder Viola da gamba),  
+früher auch Kniegeige, Beingeige  
+oder Schoßgeige genannt, ist eine  
+Sammelbezeichnung für eine Familie
+historischer Streichinstrumente.  
+Sie entstand  zur selben Zeit  
+wie die Violinfamilie.  
+Die Bezeichnung "de Gamba"  leitet  
+sich von der Spielhaltung ab.  
 
 [Quelle](https://musiculum.de/gambe/)
 
