@@ -177,12 +177,15 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 
 <img src='img/1920x1080-parques.jpg'>
 
-[Quelle](https://hainhofer.hab.de/register/personen/parzen)
+[Die drei Moiren – Schicksalsgöttinen, Giorgio Ghisi nach Giulio Romano, Kupfergravur 1558–1559. Metropolitan Museum, New York City, USA](https://hainhofer.hab.de/register/personen/parzen)
 
 
 ## <img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
 
 [_**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
+
+
+## Pedro de Madrazo 
 
 In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
 
@@ -190,6 +193,9 @@ In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren au
 ## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
 
 [_**Gregorio Cruzada Villaamil** Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
+
+
+## Gregorio Cruzada Villaamil
 
 Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez' Biografie. Gregorio Cruzada Villaamil, **geboren 1832 in Alicante (Spanien)** und **verstorben 1884 in Madrid**, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez **Rolle als als „aposentador real“** (Hofmarschall) in Verbindung.
 Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um **eine Teppichwerkstatt in der Calle Santa Isabel in Madrid** handen. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
@@ -277,7 +283,8 @@ von Aby Warburg und Fritz Saxl
 
 <img src='img/Arachne.jpg'>
 
-[Quelle](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
+[_Arachne wurde von Athena in eine Spinne verwandelt, Antonio Tempesta, 1606 - 1620, radierung, 107 x 119, Kupferstich Kabinett, Inv. Nr: 
+A 97206_](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
 
 Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrandt und Rubens Recherchen fündig geworden. Er deutete die Szene auf dem Teppich als Teil des Wettstreits zwischen Pallas Athene und Arachne. Genauer um den Teil kurz vor der Verwandlung von Arachne in eine Spinne, was ihre Bestrafung dafür sein sollte, dass sie sich und ihr Können über die Götter gestellt hat.
 
@@ -295,8 +302,7 @@ Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niema
 
 # Fazit - Eine Allegorie der Webekunst
 
-Das Bild hat im Laufe der Jahrhunderte einige Kunsthistoriker beschäftigt. Der aktuelle Kenntnisstand hier noch einmal zusammengefasst:
-Das Ölgemälde gehört zum Spätwerk von Velázquez. Es stellt höchstwahrscheinlich eine reale Szene in einer Teppichwerkstatt in Madrid dar. Die Damen auf der Empore gehören ihrer Kleidung nach zu Urteilen dem spanischen Hof an. Sie bestaunen entweder Das Teppichbild oder aber ein Schauspiel, was vor diesem dargestellt ist. Diese Frage wird wohl weiterhin unbeantwortet bleiben. In jedem Fall handelt es sich um eine Szene der römisch griechischen Mythologie, in der Arachne für ihren Hochmut von Athene bestraft wird. Diese Fabel hat ebenso viel mit der Tätigkeit des Spinnens wie mit der Spinne selbst zu tun und schließt damit den Kreis zwischen Vorder- und Hintergrund des Bildes. Velázquez führt hier also völlig bruchlos eine Arbeiterszene, den höfischen Stand und antike Sagen auf einem Bild der Meisterklasse zusammen. Es wird gedeutet, dass Velázquez damit den stetigen Wettstreit in der Kunst und somit auch die kontinuierliche Weiterentwicklung dieser betont. 
+Das Bild hat im Laufe der Jahrhunderte einige Kunsthistoriker beschäftigt. Der aktuelle Kenntnisstand hier noch einmal zusammengefasst: Das Ölgemälde gehört zum Spätwerk von Velázquez. Es stellt höchstwahrscheinlich eine reale Szene in einer Teppichwerkstatt in Madrid dar. Die Damen auf der Empore gehören ihrer Kleidung nach zu Urteilen dem spanischen Hof an. Sie bestaunen entweder Das Teppichbild oder aber ein Schauspiel, was vor diesem dargestellt ist. Diese Frage wird wohl weiterhin unbeantwortet bleiben. In jedem Fall handelt es sich um eine Szene der römisch griechischen Mythologie, in der Arachne für ihren Hochmut von Athene bestraft wird. Diese Fabel hat ebenso viel mit der Tätigkeit des Spinnens wie mit der Spinne selbst zu tun und schließt damit den Kreis zwischen Vorder- und Hintergrund des Bildes. Velázquez führt hier also sehr elegant eine Arbeiterszene, den höfischen Stand und gleich mehrere antike Sagen(wocon eine die andere sogar noch referenziert), auf einem Bild der Meisterklasse zusammen. Es wird gedeutet, dass Velázquez damit den stetigen Wettstreit in der Kunst und somit auch die kontinuierliche Weiterentwicklung dieser betont.
 
 
 ---
