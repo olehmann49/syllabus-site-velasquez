@@ -141,6 +141,7 @@ Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, sie sic
 
 [_**Antonio Ponz**, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)  
 
+
 ## Antonio Ponz
 
 Antonio Ponz war ein **spanischer Kunstschriftsteller**. Er wurde **1725 in Bejís, Spanien geboren** und **verstarb 1792 in Madrid**. Im Zuge einer Beschreibung der Räume des Palacio Real im Jahr 1772 beschäftigte er sich erstmals näher mit dem Bild. 
@@ -150,6 +151,7 @@ Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse B
 ## <img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
 
 [_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )  
+
 
 ## Anton Raphael Mengs 
 
@@ -190,6 +192,7 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 
 [_Porträt von Pedro de Madrazo y Kuntz von J. Laurent, 1861, Foto auf Papier; Album der Retratos von Hartzenbusch. Nationalbibliothek von Spanien_](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)  
 
+
 ## Pedro de Madrazo 
 
 **Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker.
@@ -199,6 +202,7 @@ In den 1870er Jahren vermutete Madrazo erstmals, dass es sich bei den Figuren au
 ## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
 
 [_**Gregorio Cruzada Villaamil** Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)  
+
 
 ## Gregorio Cruzada Villaamil
 
@@ -262,6 +266,7 @@ Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wi
 
 [_**Penelope und die Freier**, Pinturicchio, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)  
 
+
 ## Penelope und die Freier
 
 Justi führt **Penelope und die Freier** an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als **Pinturicchio**, gemalt.
@@ -282,6 +287,7 @@ Von Aby Warburg und seinem Mitarbeiter Fritz Saxl. Im Zuge ihrer Arbeit an der k
 
 [_Aby Warburg in späten Jahren, 1925, Kunsthistorisches Institut in Florenz, Max-Planck-Institut_](https://de.wikipedia.org/wiki/Aby_Warburg)
 
+
 ## Aby Warburg
 
 Aby Warburg wurde 1866 in Hamburg geboren, wo er auch 1929 verstarb. Er war ein deutscher Kunsthistoriker und Professor an der Universität Hamburg.
@@ -290,6 +296,7 @@ Aby Warburg wurde 1866 in Hamburg geboren, wo er auch 1929 verstarb. Er war ein 
 ## <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
 [_Fritz Saxl, Fotograf unbekannt (Warburg Institute London), ca. 1924, in der Kunsthistorischen Bibliothek Warburg,_](https://de.wikipedia.org/wiki/Fritz_Saxl)
+
 
 ## Fritz Saxl
 
