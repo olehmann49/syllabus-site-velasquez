@@ -228,9 +228,9 @@ Er bietete die Ansätze für Warburg und Saxl
 
 <img src='img/Carl_Justi.jpg' class='noresize'>
 
-_Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_
+[_Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
 
-[_Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen._](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
+Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen.
 
 
 ## Stellt das Bild ein Schauspiel dar?
