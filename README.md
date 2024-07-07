@@ -2,11 +2,10 @@
 
 <img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
 
-[Quelle](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)
-
-_um 1656,
+[_um 1656,
 Öl auf Leinwand, 220x289 cm,
-Museo del Prado in Madrid_
+Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)
+
 
 Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei das Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
@@ -64,11 +63,9 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 # WER war Diego Velázquez?
 
 
-## Selbstportrait
+## <img src='img/Diego_Velázquez.jpg' class='noresize'>
 
-<img src='img/Diego_Velázquez.jpg' class='noresize'>
-
-[_Diego Velázquez, vor 1660, Öl auf Leinwand, 58x40 cm_](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
+[_Selbstportrait von Diego Velázquez, vor 1660, Öl auf Leinwand, 58x40 cm_](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
 
 
 ## Daten
@@ -125,9 +122,7 @@ Auf dem Wandteppich sind zwei fliegende Putti oben links sowie schemenhaft eine 
 Grundsätzlich kann man das Bild in drei Ebenen Teilen. Die erste bildet der Raum im Vordergrund, also der Raum, in dem Die Arbeiterinnen ihrem Handwerk nachgehen, dann durch die Stufew getrennt, der kleinere Raum im Hintergrund, wo sich die elegant gekleideten Damen befinden und zu guter Letzt der Wandteppich. Wenn man den Hintergrund betrachtet, fällt es dem Betrachter schwer, eindeutig zu erkennen, welche Figuren dem Hinteren Raum angehören und welche der Ebene des Wandteppichs zuzuordnen sind.
 
 
-## Viola de Gamba
-
-<img src='img/Viola.jpg'>
+## <img src='img/Viola.jpg'>
 
 Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige genannt, ist eine Sammelbezeichnung für eine Familie historischer Streichinstrumente. Sie entstand  zur selben Zeit wie die Violinfamilie. Die Bezeichnung "de Gamba" leitet sich von der Spielhaltung ab.  
 
@@ -139,12 +134,10 @@ Gambe (oder Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßgeige 
 
 # Erste Deutungen
 
-durch Antonio Ponz und Anton Raphael Mengs
+Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, sie sich nachweisbar mit dem Gamälde beschäftigten.
 
 
-## Antonio Ponz 
-
-<img src='img/Ponz-autorretrato.jpg' class='noresize'>
+## <img src='img/Ponz-autorretrato.jpg' class='noresize'>
 
 [_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
 
@@ -212,15 +205,31 @@ Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufaktu
 ---
 
 
+# Der Wandteppich 
+
+1895 identifizierte der französische Maler und Kunstkritiker Émile Michel im Hintergrund der Teppichszene eine Gestalt in Art der Europa auf dem Stier, von einem Schwarm Amoretten begleitet. Als Vergleich zog er dabei das Bild Raub der Europa von Tizian hinzu.
+Auf dem Bild ist ein Teil einer mythologischen Episode zu sehen, in der Zeus sich verliebt, in Gestalt eines Stiers auf die Erde kommt und mit der schönen Europa auf das Meer hinaus bis nach Kreta schwimmt. So soll unser Kontinent seinen Namen bekommen haben.  
+Man erkennt definitiv, dass es sich um das selbe Motiv handelt, wenn man beide Bilder Vergleicht. Vor Allem die zwei Putti, sowie das rote Tuch weisen eine starke Ähnlichkeit auf.
+
+
+## <img src='img/Tizian_085.jpg'>
+
+[_Tizian, Raub der Europa, 1559–1562, Öl auf Leinwand, 178 × 205 cm, Boston, Isabella Stewart Gardner Museum_](https://de.m.wikipedia.org/wiki/Datei:Tizian_085.jpg)
+
+
+## <img src='img/Raubdereuropareferenz.png'>
+
+
+---
+
+
 # Carl Justis Fragen
 
 Carl Justi spielte eine Schlüsselrolle in der Deutungsgeschichte des Gemäldes.  
 Er bietete die Ansätze für Warburg und Saxl
 
 
-## Carl Justi
-
-<img src='img/Carl_Justi.jpg' class='noresize'>
+## <img src='img/Carl_Justi.jpg' class='noresize'>
 
 [_Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
 
@@ -242,15 +251,11 @@ Velazquez begleitet die drei  Damen im Hintergrund in seiner Rolle als Hofmarsch
 Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wie es von hellen Körpern reflektiert und indirekt farbiges Reflexlicht im Schatten erzeugt begeisterte ihn. Besonders faszinierend findet er des Lichtspiel in den Speichen des Spinnrades.
 
 
-## Penelope und die Freier
-
-<img src='img/N-0911-00-000024-wpu.jpg'>
+## <img src='img/N-0911-00-000024-wpu.jpg'>
 
 [_Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
 
-
-
-Justi führt Pinturicchios Penelope und die Freier an.
+Justi führt Penelope und die Freier an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als Pinturicchio, gemalt.
 
 Auf dem Bild sitzt die Frau des Odysseus am Webstuhl. Außerdem ist eine jüngere Frau zu sehen, die Wolle kämmt.
 Velázquez wagte ein Experiment, indem er auf ein religiöses oder mythologisches Bildthema verzichtete, das normalerweise solche Darstellungen der Arbeit motiviert. Stattdessen bot er mit diesem „ältesten Arbeiter- oder Fabrikstück“ ein unübliches Bildthema.
@@ -265,22 +270,14 @@ Das Bild wurde in der Gesellschaft jedoch sehr gut aufgenommen und bewundert. La
 von Aby Warburg und Fritz Saxl
 
 
-## Aby Warburg
-
-<img src='img/Aby_Warburg_1925.jpg' class='noresize'>
+## <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
 [_Aby Warbunrg, geboren 1866 in Hamburg, gestorben 1929 auch in Hamburg war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg._](https://de.wikipedia.org/wiki/Aby_Warburg)
 
 
-
-
-## Fritz Saxl
-
-<img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
+## <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
 [_Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein österreichischer Kunsthistoriker._](https://de.wikipedia.org/wiki/Fritz_Saxl)
-
-
 
 
 ## Die Fabel der Arachne
@@ -297,7 +294,7 @@ Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren F
 Bilder sagen mehr als Worte.. Wer sich die Fabel also gern anschauen möchte kann dies unter diesem [Link](https://www.youtube.com/watch?v=XvUHcsZOhJ8) gerne tun.
 Wem die Textform doch lieber ist oder nicht ganz so fit in englisch ist, bekommt hier noch eine kleine Zusammenfassung der Fabel:
 
-Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niemanden über sich zu haben, nicht einmal die Göttin Athene. Diese Herausforderung nahm Athene an und die beiden traten in einem Wettstreit gegeneinander an. Arachne webte ein Tuch, das die Fehltritte der Götter darstellte, was Athene erzürnte. Obwohl Athenes eigenes Werk herrausragend war, konnte sie nicht leugnen, dass Arachnes Werk handwerklich besser war. In ihrem Zorn zerstörte Athene Arachnes Tuch und verwandelte sie zur Strafe in eine Spinne, damit sie für immer weben müsse.
+Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niemanden über sich zu haben, nicht einmal die Göttin Athene. Diese Herausforderung nahm Athene an und die beiden traten in einem Wettstreit gegeneinander an. Arachne webte ein Tuch, das die Fehltritte der Götter darstellte (unter anderem auch die Szene auf dem Wandtepppich - Dem Raub der Europa), was Athene erzürnte. Obwohl Athenes eigenes Werk herrausragend war, konnte sie nicht leugnen, dass Arachnes Werk handwerklich besser war. In ihrem Zorn zerstörte Athene Arachnes Tuch und verwandelte sie zur Strafe in eine Spinne, damit sie für immer weben müsse. 
 
 
 ---
