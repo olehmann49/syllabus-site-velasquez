@@ -4,8 +4,7 @@
 
 [_um 1656,
 Öl auf Leinwand, 220x289 cm,
-Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)
-
+Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)  
 
 Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei das Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
@@ -139,17 +138,15 @@ Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, sie sic
 
 ## <img src='img/Ponz-autorretrato.jpg' class='noresize'>
 
-[_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
+[_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)  
 
 Antonio Ponz war ein **spanischer Kunstschriftsteller**. Er wurde **1725 in Bejís, Spanien geboren** und **verstarb 1792 in Madrid**. Im Zuge einer Beschreibung der Räume des Palacio Real im Jahr 1772 beschäftigte er sich erstmals näher mit dem Bild, 
 Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse Berühmtheit genoss**.
 
 
-## Anton Raphael Mengs 
+## <img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
 
-<img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
-
-[_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
+[_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )  
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs, **geboren 1728** in Aussig, **gestorben 1779** in Rom intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz **Ylanderas** nennt.
 Außerdem ordnete er das Bild als **eines der letzten Werke** von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
@@ -183,20 +180,16 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 [Quelle](https://hainhofer.hab.de/register/personen/parzen)
 
 
-## Pedro de Madrazo 
+## <img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
 
-<img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
-
-[_Pedro de Madrazo y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
+[_**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
 
 In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
 
 
-## Gregorio Cruzada Villaamil
+## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
 
-<img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
-
-[_Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
+[_**Gregorio Cruzada Villaamil** Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
 
 Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez' Biografie. Gregorio Cruzada Villaamil, **geboren 1832 in Alicante (Spanien)** und **verstorben 1884 in Madrid**, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez **Rolle als als „aposentador real“** (Hofmarschall) in Verbindung.
 Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um **eine Teppichwerkstatt in der Calle Santa Isabel in Madrid** handen. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
@@ -253,13 +246,13 @@ Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wi
 
 ## <img src='img/N-0911-00-000024-wpu.jpg'>
 
-[_Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
+[_**Penelope und die Freier**, Pinturicchio, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)  
 
-Justi führt Penelope und die Freier an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als Pinturicchio, gemalt.
 
+## Justi führt **Penelope und die Freier** an. Dieses Bild wurde 1509 von Bernardino di Betto di Biagio, bekannt als **Pinturicchio**, gemalt.
 Auf dem Bild sitzt die Frau des Odysseus am Webstuhl. Außerdem ist eine jüngere Frau zu sehen, die Wolle kämmt.
-Velázquez wagte ein Experiment, indem er auf ein religiöses oder mythologisches Bildthema verzichtete, das normalerweise solche Darstellungen der Arbeit motiviert. Stattdessen bot er mit diesem „ältesten Arbeiter- oder Fabrikstück“ ein unübliches Bildthema.
-Das Bild wurde in der Gesellschaft jedoch sehr gut aufgenommen und bewundert. Laut Justi gelang ihm damit ein Glücksgriff.
+Velázquez wagte ein Experiment, indem er auf ein **religiöses oder mythologisches Bildthema verzichtete**, das normalerweise solche Darstellungen der Arbeit motiviert. Stattdessen bot er mit diesem **„ältesten Arbeiter- oder Fabrikstück“** ein unübliches Bildthema.
+Das Bild wurde in der Gesellschaft jedoch sehr gut aufgenommen und bewundert. Laut Justi gelang ihm damit ein **Glücksgriff**.
 
 
 ---
