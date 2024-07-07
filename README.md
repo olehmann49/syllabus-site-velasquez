@@ -6,7 +6,7 @@
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)  
 
-Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei das Buch mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
+Diese Syllabus Site dreht sich um Das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei der Aufsatz mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
 
 ---
@@ -75,7 +75,7 @@ Gestorben am 7. August 1660 in Madrid.
 
 ## Sein Leben
 
-Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schon ein Jahr später zum Holfmaler von Philip V. In dieser Zeit porträtierte er zahlreiche Mitglieder der königlichen Familie, sowie Angehörige des Hofes. Dieser Stand ermöglichte ihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
+Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schon ein Jahr später zum Holfmaler von Philip V. In diesem Amt porträtierte er zahlreiche Mitglieder der königlichen Familie, sowie Angehörige des Hofes. Dieser Stand ermöglichte ihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
 
 
 ---
@@ -88,7 +88,7 @@ Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. 
 
 <img src='img/Vordergrund.png' class='noresize'>
 
-Dargestellt ist ein Raum. Der erste Blick fällt auf eine Gruppe von drei Frauen, welche mit dem Herstellen von Garn beschäftigt sind.
+Dargestellt sind zwei Räume. Der erste Blick fällt auf eine Gruppe von drei Frauen, welche mit dem Herstellen von Garn beschäftigt sind.
 Zu ihren Füßen sitzt eine Katze. Links dreht eine ältere Frau am Spinnrad, um aus Wolle Garn zu machen. Dabei neigt sie ihren Kopf nach links. 
 
 Vom Betrachter abgewandt sitzt rechts im Bild eine jüngere und verarbeitet das Garn weiter indem sie es zu einem Knäul wickelt.
@@ -150,7 +150,6 @@ Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse B
 
 [_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )  
 
-
 ## Anton Raphael Mengs 
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs, **geboren 1728** in Aussig, **gestorben 1779** in Rom intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz **Ylanderas** nennt.
@@ -187,8 +186,7 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 
 ## <img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
 
-[_**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
-
+[_**Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)  
 
 ## Pedro de Madrazo 
 
@@ -197,8 +195,7 @@ In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren au
 
 ## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
 
-[_**Gregorio Cruzada Villaamil** Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
-
+[_**Gregorio Cruzada Villaamil** Fotografie von Pedro Antonio de Alarcon_](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)  
 
 ## Gregorio Cruzada Villaamil
 
@@ -238,7 +235,7 @@ Er bietete die Ansätze für Warburg und Saxl
 [_Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
 
 
-## Carl Justo 
+## Carl Justi 
 
 Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen.
 
@@ -261,7 +258,6 @@ Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wi
 ## <img src='img/N-0911-00-000024-wpu.jpg'>
 
 [_**Penelope und die Freier**, Pinturicchio, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)  
-
 
 ## Penelope und die Freier
 
