@@ -6,7 +6,7 @@
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)  
 
-Diese Syllabus Site dreht sich um das Gemäle von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei der Aufsatz mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
+Diese Syllabus Site dreht sich um das Gemälde von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei der Aufsatz mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
 
 
 ---
@@ -76,7 +76,7 @@ Gestorben am 7. August 1660 in Madrid.
 
 ## Sein Leben
 
-Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schon ein Jahr später zum Holfmaler von Philip V. In diesem Amt porträtierte er zahlreiche Mitglieder der königlichen Familie sowie Angehörige des Hofes. Dieser gesellschaftliche Stand ermöglichte es ihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
+Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. Dort erlernte er schon in jungen Jahren das Kunsthandwerk. 1622 begab er sich nach Madrid und wurde dort schon ein Jahr später Holfmaler von Philip V. In diesem Amt porträtierte er zahlreiche Mitglieder der königlichen Familie sowie Angehörige des Hofes. Dieser gesellschaftliche Stand ermöglichte es ihm zwei Reisen nach Italien zu unternehmen und sich mit vielen zeitgenössischen Künstlern auszutauschen. Velázquez gilt mit seinen Werken als Vorreiter des spanischen Realismus. 
 
 
 ---
@@ -89,10 +89,10 @@ Geboren und aufgewachsen ist Diego Rodríguez de Silva y Velázquez in Sevilla. 
 
 <img src='img/Vordergrund.png' class='noresize'>
 
-Dargestellt sind zwei Räume. Der erste Blick fällt auf eine Gruppe von drei Frauen, welche mit dem Herstellen von Garn beschäftigt sind.
-Zu ihren Füßen sitzt eine Katze. Links dreht eine ältere Frau am Spinnrad, um aus Wolle Garn zu machen, dabei neigt sie ihren Kopf nach links. 
+Dargestellt sind zwei Räume. Der erste Blick fällt auf eine Gruppe von drei Frauen, welche mit der Herstellung von Garn beschäftigt sind.
+Zu ihren Füßen sitzt eine Katze. Links dreht eine ältere Frau am Spinnrad, um aus Wolle Garn zu machen. Dabei neigt sie ihren Kopf nach links. 
 
-Vom Betrachter abgewandt sitzt rechts im Bild eine Jüngere und verarbeitet das Garn weiter indem sie es zu einem Knäul wickelt.
+Vom Betrachter abgewandt sitzt rechts im Bild eine Jüngere und verarbeitet das Garn weiter, indem sie es zu einem Knäuel wickelt.
 
 Zwischen diesen beiden sieht man, zentral im Bild und zum Betrachter gerichtet, eine dritte Dame, welche Rohwolle vom Boden aufsammelt. In der linken Hand hält sie einen Wollkamm, um die Rohwolle damit zu bearbeiten.
 
@@ -101,7 +101,7 @@ Zwischen diesen beiden sieht man, zentral im Bild und zum Betrachter gerichtet, 
 
 <img src='img/Randfiguren.png' class='noresize'>
 
-Zu diesen drei Figuren kommen zwei weitere an den Bildrändern hinzu. Eine am linken Bildrand, welche einen Vorhang beiseite schiebt. Sie führt Augenschaugenscheinlich ein Gespräch mit der äteren Dame zu ihrer Rechten.
+Zu diesen drei Figuren kommen zwei weitere an den Bildrändern hinzu. Eine am linken Bildrand, welche einen Vorhang beiseite schiebt. Sie führt augenscheinlich ein Gespräch mit der äteren Dame zu ihrer Rechten.
 
 Die Andere befindet sich am rechten Bildrand, wo sie einen Korb neben der garnwickelnden Frau abstellt.
 
@@ -119,7 +119,7 @@ Auf dem Wandteppich sind zwei fliegende Putti oben links sowie schemenhaft eine 
 
 ## Die Ebenen des Bildes
 
-Grundsätzlich kann man das Bild in drei Ebenen teilen. Die Erste bildet der Raum im Vordergrund, also dort, wo die Arbeiterinnen ihrem Handwerk nachgehen. Durch die Stufe getrennt, bildet der kleinere Raum im Hintergrund mit den elegant gekleideten Damen die zweite Ebene des Bildes. Zu guter Letzt ist der Wandteppich Ebene drei. Beim betrachten des Hintergrundes wird es schwierig, eindeutig zu erkennen, welche Figuren dem hinteren Raum angehören und welche der Ebene des Wandteppichs zuzuordnen sind.
+Grundsätzlich kann man das Bild in drei Ebenen teilen. Die Erste bildet der Raum im Vordergrund, also dort, wo die Arbeiterinnen ihrem Handwerk nachgehen. Durch die Stufe getrennt, bildet der kleinere Raum im Hintergrund mit den elegant gekleideten Damen die zweite Ebene des Bildes. Zu guter Letzt ist der Wandteppich Ebene drei. Bei Betrachtung des Hintergrundes wird es schwierig, eindeutig zu erkennen, welche Figuren dem hinteren Raum angehören und welche der Ebene des Wandteppichs zuzuordnen sind.
 
 
 ## <img src='img/Viola.jpg'>
@@ -134,7 +134,7 @@ Gambe (spanisch Viola da gamba), früher auch Kniegeige, Beingeige oder Schoßge
 
 # Erste Deutungen
 
-Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, sie sich nachweisbar mit dem Gamälde beschäftigten.
+Antonio Ponz und Anton Raphael Mengs sind die ersten bekannten Menschen, die sich nachweisbar mit dem Gamälde beschäftigt haben.
 
 
 ## <img src='img/Ponz-autorretrato.jpg' class='noresize'>
@@ -164,15 +164,15 @@ Außerdem ordnete er das Bild als **eines der letzten Werke** von Velásquez ein
 
 # 1800 - 1888
 
-In dieser Zeit wurde viel um das Entstehungsdatum gerätselt. Außerdem gab einige neue Erkenntnisse über die Technik des Malers.
+In dieser Zeit wurde viel um das Entstehungsdatum gerätselt. Außerdem gab es einige neue Erkenntnisse über die Technik des Malers.
 
 
 ## Katalogbeschreibung im Museo del Prado 1828
 
-Die erste Beschreibung des Bildes im Museo del Prado beschrieb 1828 zunächst die Unterschiede der sozialen Orte im Bild.  
-Die Damen im Hintergrund weden als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden.
+Die erste Beschreibung des Bildes im Museo del Prado weist 1828 zunächst auf die Unterschiede der sozialen Orte im Bild hin.  
+Die Damen im Hintergrund werden als Señoras bezeichnet, während die arbeitenden Frauen im Vordergrund Mujeres genannt werden.
 
-Senioras - bezeichnung für **Die Dame – direkte Anrede**
+Senioras - Bezeichnung für **Die Dame – direkte Anrede**
 
 Mujeres - **eine Frau / irgendeine Frau**
 
@@ -196,7 +196,7 @@ Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der rö
 ## Pedro de Madrazo 
 
 **Pedro de Madrazo** y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker.
-In den 1870er Jahren vermutete Madrazo erstmals, dass es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
+In den 1870er Jahren vermutete Madrazo erstmals, dass es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
 
 
 ## <img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
@@ -206,8 +206,8 @@ In den 1870er Jahren vermutete Madrazo erstmals, dass es sich bei den Figuren au
 
 ## Gregorio Cruzada Villaamil
 
-Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez' Biografie. Gregorio Cruzada Villaamil, geboren 1832 in Alicante (Spanien) und verstorben 1884 in Madrid, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez **Rolle als als „aposentador real“** (Hofmarschall) in Verbindung.
-Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um **eine Teppichwerkstatt in der Calle Santa Isabel in Madrid** handen. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
+Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez' Biografie. Gregorio Cruzada Villaamil, geboren 1832 in Alicante (Spanien) und verstorben 1884 in Madrid, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez **Rolle als „aposentador real“** (Hofmarschall) in Verbindung.
+Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um **eine Teppichwerkstatt in der Calle Santa Isabel in Madrid** handeln. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
 
 
 ---
@@ -217,7 +217,7 @@ Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufaktu
 
 1895 identifizierte der französische Maler und Kunstkritiker **Émile Michel** im Hintergrund der Teppichszene eine Gestalt in Art der **Europa auf dem Stier**, begleitet von einem Schwarm Amoretten. Zum Vergleich zog er dabei das "Bild Raub der Europa" von Tizian hinzu.
 Auf dem Bild ist ein Teil einer mythologischen Episode zu sehen, in der Zeus sich verliebt, in Gestalt eines Stiers auf die Erde kommt und mit der schönen Europa auf das Meer hinaus bis nach Kreta schwimmt. So soll unser Kontinent seinen Namen bekommen haben.  
-Beim Vergleich beider Bilder stellt man schnell gemeinsamkeiten fest. Vor allem die zwei Putti sowie das rote Tuch weisen eine starke Ähnlichkeit auf. Der Stier und Europa werden zum größten Teil von anderen Figuren verdeckt.
+Beim Vergleich beider Bilder stellt man schnell Gemeinsamkeiten fest. Vor allem die zwei Putti sowie das rote Tuch weisen eine starke Ähnlichkeit auf. Der Stier und Europa werden zum größten Teil von anderen Figuren verdeckt.
 
 
 ## <img src='img/Tizian_085.jpg'>
@@ -249,12 +249,12 @@ Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg 
 
 ## Stellt das Bild ein Schauspiel dar?
 
-Die Diskrepanz zwischen Figuren auf dem Teppich, der Empore und den Arbeiterinnen führen Justi zur Überlegung, dass es sich um ein Schauspiel handelt. Außerdem deutet die Viola de Gamba auf Musik für die Zwischenakte einer solchen Aufführung.
+Die Diskrepanz zwischen Figuren auf dem Teppich, der Empore und den Arbeiterinnen führten Justi zur Überlegung, dass es sich um ein Schauspiel handeln könnte. Außerdem deutet die Viola de Gamba auf Musik für die Zwischenakte einer solchen Aufführung hin.
 
 
 ## Eine mögliche Entstehungsgeschichte des Bildes 
 
-Velázquez begleitet die drei Damen im Hintergrund in seiner Rolle als Hofmarschall. Diese begutachteten die Teppiche im Hintergrund. Er findet die Gesamte Szenerie sehr faszinierend und hält diese als Skizze fest.
+Velázquez begleitet die drei Damen im Hintergrund in seiner Rolle als Hofmarschall. Diese begutachteten die Teppiche im Hintergrund. Er findet die gesamte Szenerie sehr faszinierend und hält diese als Skizze fest.
 
 
 ## Der meisterhafte Umgang mit dem Licht
@@ -310,12 +310,12 @@ Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein �
 [_Arachne wurde von Athena in eine Spinne verwandelt, Antonio Tempesta, 1606 - 1620, Radierung, 107 x 119, Kupferstich Kabinett, Inv. Nr: 
 A 97206_](https://skd-online-collection.skd.museum/large/230/9da507b0-d794-4cc4-ac11-a49a7cc4f66d.jpg)
 
-Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrandt und Rubens Recherchen fündig geworden. Er deutete die Szene auf dem Teppich als Teil des Wettstreits zwischen Pallas Athene und Arachne. Genauer um den Teil kurz vor der Verwandlung von Arachne in eine Spinne, was ihre Bestrafung dafür sein sollte, dass sie sich und ihr Können über die Götter gestellt hat.
+Warburg suchte in der „Metamorphosen“-Ausgabe von 1606 nach vergleichbaren Figuren. Er war in dieser bereits zu Rembrandt und Rubens Recherchen fündig geworden. Die Szene auf dem Teppich deutete er als Teil des Wettstreits zwischen Pallas Athene und Arachne. Genauer um den Teil kurz vor der Verwandlung von Arachne in eine Spinne, was ihre Bestrafung dafür sein sollte, dass sie sich und ihr Können über die Götter gestellt hat.
 
 
 ## Die Fabel erklärt 
 
-Bilder sagen mehr als Worte, wer sich die Fabel also gern anschauen möchte kann dies unter diesem [Link](https://www.youtube.com/watch?v=XvUHcsZOhJ8) tun.
+Bilder sagen mehr als Worte. Wer sich die Fabel also gern anschauen möchte, kann [hier](https://www.youtube.com/watch?v=XvUHcsZOhJ8) klicken.
 Wem die Textform doch lieber ist, bekommt hier noch eine kleine Zusammenfassung der Fabel:
 
 Arachne war eine begabte Weberin aus Lydia, die behauptete, in ihrer Kunst niemanden über sich zu haben, nicht einmal die Göttin Athene. Dieser Herausforderung stellte sich Athene und die beiden traten in einem Wettstreit gegeneinander an. Arachne webte ein Tuch, das die Fehltritte der Götter darstellte (unter anderem auch die Szene auf dem Wandtepppich - Dem Raub der Europa), was Athene erzürnte. Obwohl Athenes eigenes Werk herausragend war, konnte sie nicht leugnen, dass Arachnes Werk handwerklich besser war. In ihrem Zorn zerstörte Athene Arachnes Tuch und verwandelte sie zur Strafe in eine Spinne, damit sie für immer weben müsse. 
