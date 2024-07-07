@@ -48,9 +48,9 @@ Als erster bekannter Hängungsort gilt Der Buen Retiro Palacio. Dieser ist die S
 
 <img src='img/Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg' class='noresize'>
 
-[Quelle](https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg)
+[_Palacio Real de Madrid Juli 2016 / Foto: Tim Adams_](https://de.wikipedia.org/wiki/Datei:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg)
 
-_Palacio Real de Madrid Juli 2016 / Foto: Tim Adams_
+
 
 Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid.
 
@@ -59,7 +59,7 @@ Ab den 1770er Jahren hing es im damals neugebauten Palacio Real in Madrid.
 
 <img src='img/MUSEODELPRADO.jpg' class='noresize'>
 
-[Quelle](https://gatetotravel.de/travel-guide/city/ziel/madrid/dontmisss/Museo-del-Prado)
+[Foto: SeanPavone](https://gatetotravel.de/travel-guide/city/ziel/madrid/dontmisss/Museo-del-Prado)
 
 Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestaunen.
 
@@ -74,14 +74,12 @@ Seit 1819 kann man das Gemälde im Museo del Prado in Madrid im Raum 115A bestau
 
 <img src='img/Diego_Velázquez.jpg' class='noresize'>
 
-[Quelle](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
-
-_Diego Velázquez, vor 1660, Öl auf Leinwand, 58x40 cm_
+[_Diego Velázquez, vor 1660, Öl auf Leinwand, 58x40 cm_](https://de.m.wikipedia.org/wiki/Datei:Vel%C3%A1zquez_Self-portrait.jpg)
 
 
 ## Daten
 
-Geboren afang Juni 1599 in Sevilla.  
+Geboren anfang Juni 1599 in Sevilla.  
 Gestorben am 7. August 1660 in Madrid.
 
 
@@ -154,21 +152,17 @@ durch Antonio Ponz und Anton Raphael Mengs
 
 <img src='img/Ponz-autorretrato.jpg' class='noresize'>
 
-[Quelle](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
+[_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_](https://de.wikipedia.org/wiki/Antonio_Ponz#/media/Datei:Ponz-autorretrato.jpg)
 
-_Antonio Ponz, 1774, Öl auf Leinwand, 43x36cm, Real Academia de Bellas Artes de San Fernando_
-
-Antonio Ponz war ein spanischer Kunstschriftsteller. Er wurde 1725 in Bejís, Spanien geboren und verstarb 1792 in Madrid. Im Zuge einer Beschreibung der Räume des Palacio Real im Jahr 1772 beschäftigte er sich erstmals näher mit dem Bild, 
-Aus dieser Beschreibung geht hervor, dass das Bild schon damals eine gewisse Berühmtheit genoss.
+Antonio Ponz war ein **spanischer Kunstschriftsteller**. Er wurde **1725 in Bejís, Spanien geboren** und **verstarb 1792 in Madrid**. Im Zuge einer Beschreibung der Räume des Palacio Real im Jahr 1772 beschäftigte er sich erstmals näher mit dem Bild, 
+Aus dieser Beschreibung geht hervor, dass das Bild **schon damals eine gewisse Berühmtheit genoss**.
 
 
 ## Anton Raphael Mengs 
 
 <img src='img/Mengs,_Selbstbildnis.jpg' class='noresize'>
 
-[Quelle](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
-
-_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_
+[_Anton Raphael Mengs, 1773, Öl auf Holztafel, 93x73cm, Galleria degli Uffizi_](https://en.wikipedia.org/wiki/Anton_Raphael_Mengs#/media/File:Mengs,_Selbstbildnis.jpg )
 
 Im selben Jahrzehnt wie Ponz widmete sich auch der deutsche Maler Anton Raphael Mengs, **geboren 1728** in Aussig, **gestorben 1779** in Rom intensiv dem Gemälde. Er prägte unter anderem den noch heute gängigen Namen, indem er es in einem Brief an Ponz **Ylanderas** nennt.
 Außerdem ordnete er das Bild als **eines der letzten Werke** von Velásquez ein und bewunderte seine Maltechnik. Das Bild sei laut ihm nicht mit der Hand, sondern allein mit dem Willen gemalt.
@@ -193,9 +187,9 @@ Erhoben im Hintergrund werden die Damen als Señoras bezeichnet, während die ar
 
 ## Céan Bermúdez 
 
-Kurz nach 1800 verglich der spanische Kunstschriftsteller Céan Bermùdez die drei Garn spinnenden Frauen im Vordergrund mit Parzen.
+Kurz nach 1800 verglich der spanische Kunstschriftsteller Céan Bermùdez die drei Garn spinnenden Frauen im Vordergrund mit **Parzen**.
 
-Parzen sind die drei **Schicksalsgöttinnen** Nona, Decima und Parca aus der römischen Mythologie. Laut dieser ist es ihre Aufgabe, das Schicksal der Menschen zu spinnen.
+Parzen sind die drei **Schicksalsgöttinnen Nona, Decima und Parca** aus der römischen Mythologie. Laut dieser ist es ihre Aufgabe, das Schicksal der Menschen zu spinnen.
 
 <img src='img/1920x1080-parques.jpg'>
 
@@ -206,19 +200,21 @@ Parzen sind die drei **Schicksalsgöttinnen** Nona, Decima und Parca aus der rö
 
 <img src='img/J-laurent-Retrato_de_Pedro_de_Madrazo_y_Kuntz.jpg'>
 
-[Quelle](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
+[_Pedro de Madrazo y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker._](https://en.wikipedia.org/wiki/Pedro_de_Madrazo_y_Kuntz)
 
-Pedro de Madrazo y Kuntz, geboren 1816 in Rom, gestorben 1898 in Madrid, war ein spanischer Maler, Jurist, Schriftsteller, Übersetzer und Kunstkritiker.
 
-In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren auf dem Wandteppich um eine mythologische Szene handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
+
+In den 1870er Jahren vermutete Pedro er erstmals, das es sich bei den Figuren auf dem Wandteppich um eine **mythologische Szene** handeln muss. Welche Szene genau dargegestellt ist, kann er nicht feststellen. Grund dafür könnte der Mangel an Quellen zur Recherche sein.
 
 
 ## Gregorio Cruzada Villaamil
 
+<img src='img/Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg'>
+
 [Quelle](https://en.wikipedia.org/wiki/Gregorio_Cruzada_Villaamil#/media/File:Gregorio_Cruzada_Villaamil_-_carte_de_visite.jpg)
 
-Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez. Gregorio Cruzada Villaamil, geboren 1832 in Alicante (Spanien) und verstorben 1884 in Madrid, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez Rolle als als „aposentador real“ (Hofmarschall) in Verbindung.
-Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um eine Teppichwerkstatt in der Calle Santa Isabel in Madrid handen. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
+Im Zeitraum von 1880 - 1890 gab es einige neue Erkenntnisse zu Velázquez' Biografie. Gregorio Cruzada Villaamil, **geboren 1832 in Alicante (Spanien)** und **verstorben 1884 in Madrid**, brachte in dieser Zeit erstmals das Bild der Hilanderas mit Velázquez **Rolle als als „aposentador real“** (Hofmarschall) in Verbindung.
+Teil seines Dienstes unter Philip V. war es demzufolge auch die Teppichmanufakturen gelegentlich zu besuchen und zu überwachen. Genauer soll es sich hierbei um **eine Teppichwerkstatt in der Calle Santa Isabel in Madrid** handen. Bei einem solchen Ausflug dorthin fing er dann die Komposition der Figuren und Objekte als Skizze ein, um daraus in seinem Atelier das Bild zu malen. 
 
 
 ---
@@ -236,9 +232,7 @@ Er bietete die Ansätze für Warburg und Saxl
 
 _Scan aus "Die großen Deutschen im Bilde" (1936) von Michael Schönitzer_
 
-[Quelle](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
-
-Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen.
+[_Carl Justi war ein deutscher Philosoph und Kunsthistoriker, der 1832 in Marburg geboren wurde und 1912 in Bonn verstarb. Er spekulierte, dass auf dem Wandteppich eine Episode eines mythologischen Dramas dargestellt sein könnte. Obwohl er Madrazos Idee aufgreift, geht er nicht näher darauf ein. Er lässt absichtlich die Frage unbeantwortet, welche Szene genau zu sehen ist, genauso wie viele weitere Fragen._](https://de.wikipedia.org/wiki/Carl_Justi#/media/Datei:Carl_Justi.jpg)
 
 
 ## Stellt das Bild ein Schauspiel dar?
@@ -260,9 +254,9 @@ Nach Justi ist das zentrale Thema des Gemäldes das Licht. Die Art und Weise, wi
 
 <img src='img/N-0911-00-000024-wpu.jpg'>
 
-[Quelle](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
+[_Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery_](https://www.nationalgallery.org.uk/paintings/pintoricchio-penelope-with-the-suitors)
 
-_Pinturicchio, Penelope und die Freier, 1509, Fresko, 125x152 cm, London, National Gallery_
+
 
 Justi führt Pinturicchios Penelope und die Freier an.
 
@@ -283,7 +277,7 @@ von Aby Warburg und Fritz Saxl
 
 <img src='img/Aby_Warburg_1925.jpg' class='noresize'>
 
-[Aby Warbunrg, geboren 1866 in Hamburg, gestorben 1929 auch in Hamburg war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg.](https://de.wikipedia.org/wiki/Aby_Warburg)
+[_Aby Warbunrg, geboren 1866 in Hamburg, gestorben 1929 auch in Hamburg war ein hamburger Kunsthistoriker und Professor an der Universität Hamburg._](https://de.wikipedia.org/wiki/Aby_Warburg)
 
 
 
@@ -292,7 +286,7 @@ von Aby Warburg und Fritz Saxl
 
 <img src='img/Fritz_Saxl_Foto(1).jpg' class='noresize'>
 
-[Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein österreichischer Kunsthistoriker.](https://de.wikipedia.org/wiki/Fritz_Saxl)
+[_Fritz Saxl, geboren 1890 in Wien, verstorben 1948 in Dulwich (England) war ein österreichischer Kunsthistoriker._](https://de.wikipedia.org/wiki/Fritz_Saxl)
 
 
 
