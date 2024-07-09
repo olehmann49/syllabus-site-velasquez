@@ -6,7 +6,7 @@
 Öl auf Leinwand, 220x289 cm,
 Museo del Prado in Madrid_](https://www.museodelprado.es/coleccion/obra-de-arte/las-hilanderas-o-la-fabula-de-aracne/3d8e510d-2acf-4efb-af0c-8ffd665acd8d)  
 
-Diese Syllabus Site dreht sich um das Gemälde von Diego Velázquez und die Entschlüsselung dieses durch viele Kunsthistoriker im Laufe der Zeit. Als Hauptquelle dient hierbei der Aufsatz mit dem Titel: „Aby Warburg und Fritz Saxl enträtseln Velázquez“ von Katrin Hellwig.
+Das von dem spanischen Maler Diego Rodríguez de Silva y Velázquez zwischen 1644 und 1658 geschaffene Werk "Las Hilanderas" (dt. Die Spinnerinnen) und seine unterschiedlichen und sich immer weiter erschließenden Deutungen steht im Zentrum dieser Visualisierung. Mithilfe der Syllabus Site werden die Deutungen in einer chronologischen Reihenfolge anschaulich gemacht. Als Leitfaden und Hauptquelle dient dabei der Aufsatz „Aby Warburg und Fritz Saxl enträtseln Velázquez: Ein spanisches Intermezzo zum Nachleben der Antike“ von Katrin Hellwig.
 
 
 ---
