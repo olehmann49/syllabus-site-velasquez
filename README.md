@@ -1,4 +1,4 @@
-# Las HilanderasTEST
+# Las Hilanderas
 
 <img src='img/Las hilanderas o la fábula de Aracne.jpg' class='noresize'>
 
