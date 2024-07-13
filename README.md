@@ -331,11 +331,13 @@ Das Bild hat im Laufe der Jahrhunderte einige Kunsthistoriker beschäftigt. Der 
 Das Ölgemälde gehört zum Spätwerk von Velázquez. Es stellt höchstwahrscheinlich eine reale Szene in einer Teppichwerkstatt in Madrid dar. Die Damen auf der Empore gehören ihrer Kleidung nach dem spanischen Hof an. Sie bestaunen entweder das Teppichbild oder aber ein Schauspiel, was vor diesem dargestellt ist. Diese Frage wird wohl weiterhin unbeantwortet bleiben. In jedem Fall handelt es sich um eine Szene der römisch griechischen Mythologie, in der Arachne für ihren Hochmut von Athene bestraft wird. Diese Fabel hat ebenso viel mit der Tätigkeit des Spinnens, wie mit der Spinne selbst zu tun und schließt damit den Kreis zwischen Vorder- und Hintergrund. Velázquez führt hier also sehr elegant eine Arbeiterszene, den höfischen Stand und gleich mehrere antike Sagen (wovon eine die andere sogar noch referenziert), auf einem Bild der Meisterklasse zusammen. Es wird gedeutet, dass Velázquez damit den stetigen Wettstreit in der Kunst und somit auch die kontinuierliche Weiterentwicklung dieser betont.
 
 
+
+
 ---
 
 
 <!--skipnav-->
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
 [<img src='img/id.svg' style='height:1.75em'>](https://interface.fh-potsdam.de/) 
-
+[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
 [Contact](mailto:marian.doerk@fh-potsdam.de,philipp.proff@gmx.de?subject=Syllabus%20Site) · [Imprint](https://www.fh-potsdam.de/impressum) · *This is a [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)*
