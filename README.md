@@ -20,7 +20,7 @@ Das von dem spanischen Maler Diego Rodríguez de Silva y Velázquez zwischen 164
 Nach den neuesten Schätzungen stammt dieses Gemälde aus der Zeit zwischen 1655 und 1660 und zählt somit zweifellos zu den späten Werken von Velázquez. Es ist eindeutig dem Barock zuzuordnen. Die akribische Ausarbeitung selbst kleinster Details und insbesondere die meisterhafte Darstellung des Lichts verleihen diesem Werk einen bemerkenswerten  Realismus, für den Velázquez unter anderem berühmt war.
 
 
-## <img src='img/ZeitlicheEinordnung.PNG' class='noresize'>
+## <img src='img/ZeitlicheEinordnung.PNG'>
 
 
 ---
@@ -31,7 +31,7 @@ Nach den neuesten Schätzungen stammt dieses Gemälde aus der Zeit zwischen 1655
 
 ## Palacio Buen Retiro Leonardo
 
-<img src='img/Palacio_Buen_Retiro_Leonardo.jpg' class='noresize'>
+<img src='img/Palacio_Buen_Retiro_Leonardo.jpg'>
 
 [_Schloss und Park Buen Retiro; Ölgemälde von Jusepe Leonardo, 1637._](https://de.wikipedia.org/wiki/Retiro-Park#/media/Datei:Palacio_Buen_Retiro_Leonardo.jpg)
 
