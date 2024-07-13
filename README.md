@@ -339,5 +339,4 @@ Das Ölgemälde gehört zum Spätwerk von Velázquez. Es stellt höchstwahrschei
 <!--skipnav-->
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
 [<img src='img/id.svg' style='height:1.75em'>](https://interface.fh-potsdam.de/) 
-[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
-[Contact](mailto:marian.doerk@fh-potsdam.de,philipp.proff@gmx.de?subject=Syllabus%20Site) · [Imprint](https://www.fh-potsdam.de/impressum) · *This is a [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)*
+[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/) · [Contact](mailto:marian.doerk@fh-potsdam.de,philipp.proff@gmx.de?subject=Syllabus%20Site) · [Imprint](https://www.fh-potsdam.de/impressum) · *This is a [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)*
